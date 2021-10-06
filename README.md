@@ -27,8 +27,6 @@
 <div align="left">
   <a href="https://github.com/fasillva/pagina-de-login">
   <img height="117.7em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fasillva&repo=pagina-de-login&theme=dark&layout=compact&show_icons=true"/>
-  <a href="https://github.com/fasillva/blogcodelandia">
-  <img height="117.7em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fasillva&repo=blogcodelandia&theme=dark&layout=compact&show_icons=true"/>
 </div><br>
     
 <div align="left">
