@@ -4,8 +4,8 @@
 <div align="left">
   <a href="https://github.com/fasillva">
     
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=fasillva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&layout=compact"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasillva&layout=compact&langs_count=7&theme=dark&locale=pt-br&layout=compact"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciolak&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&layout=compact"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolak&layout=compact&langs_count=7&theme=dark&locale=pt-br&layout=compact"/>
     
 </div>
 
@@ -25,8 +25,8 @@
   ## Conheça um pouco dos meu projetos
   
 <div align="left">
-  <a href="https://github.com/fasillva/pagina-de-login">
-  <img height="117.7em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fasillva&repo=pagina-de-login&theme=dark&layout=compact&show_icons=true"/>
+  <a href="https://github.com/fabriciolak/pagina-de-login">
+  <img height="117.7em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabriciolak&repo=pagina-de-login&theme=dark&layout=compact&show_icons=true"/>
 </div><br>
     
 <div align="left">
