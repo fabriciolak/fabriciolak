@@ -1,29 +1,507 @@
  
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
 
-<!DOCTYPE html><html lang="pt-br"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><link id="gatsby-global-css" href="/styles.28985b754fa64482a17c.css" rel="stylesheet" type="text/css"/><meta name="generator" content="Gatsby 3.3.1"/><link href="https://fonts.googleapis.com/css?family=Inter:400,700,800&amp;display=swap" rel="stylesheet"/><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){if(void 0===e.target.dataset.mainImage)return;if(void 0===e.target.dataset.gatsbyImageSsr)return;const t=e.target;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><title data-react-helmet="true">Simples Dental - O melhor Software Odontológico do Brasil</title><link data-react-helmet="true" rel="canonical" href="https://www.simplesdental.com/"/><link data-react-helmet="true" rel="alternate" href="https://www.simplesdental.com" hrefLang="pt-br"/><meta data-react-helmet="true" name="google-site-verification" content="YFmnTS-XA2302p-XrmVCWuzxVgXJ_CBnFYfLsb9Uryc"/><meta data-react-helmet="true" name="author" content="Simples Dental"/><meta data-react-helmet="true" name="robots" content="index,follow"/><meta data-react-helmet="true" name="description" content="Whatsapp Web, Automação de WhatsApp, Agenda Online, Financeiro. Teste por 7 dias grátis. Simples Dental, o melhor software odontológico do Brasil."/><meta data-react-helmet="true" name="image" content="https://www.simplesdental.com/images/site_thumb.png"/><meta data-react-helmet="true" name="keywords" content="software odontológico, sistema odontologico, software para dentistas, software odontologia, programa para dentista, sistema para dentista, simples dental, agenda para dentistas, dental simples, simples dental agenda, software odontologico gratis 7 dias"/><meta data-react-helmet="true" property="og:url" content="https://www.simplesdental.com/"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" property="og:site_name" content="Simples Dental"/><meta data-react-helmet="true" property="og:locale" content="pt_BR"/><meta data-react-helmet="true" property="og:title" content="Simples Dental - O melhor Software Odontológico do Brasil"/><meta data-react-helmet="true" property="og:description" content="Whatsapp Web, Automação de WhatsApp, Agenda Online, Financeiro. Teste por 7 dias grátis. Simples Dental, o melhor software odontológico do Brasil."/><meta data-react-helmet="true" property="og:image" content="https://www.simplesdental.com/images/site_thumb.png"/><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"/><meta data-react-helmet="true" name="twitter:creator" content="@simplesdental"/><meta data-react-helmet="true" name="twitter:site" content="@simplesdental"/><meta data-react-helmet="true" name="twitter:title" content="Simples Dental - O melhor Software Odontológico do Brasil"/><meta data-react-helmet="true" name="twitter:description" content="Whatsapp Web, Automação de WhatsApp, Agenda Online, Financeiro. Teste por 7 dias grátis. Simples Dental, o melhor software odontológico do Brasil."/><meta data-react-helmet="true" name="twitter:image" content="https://www.simplesdental.com/images/site_thumb.png"/><meta data-react-helmet="true" itemProp="name" content="Simples Dental"/><meta data-react-helmet="true" itemProp="description" content="Whatsapp Web, Automação de WhatsApp, Agenda Online, Financeiro. Teste por 7 dias grátis. Simples Dental, o melhor software odontológico do Brasil."/><meta data-react-helmet="true" itemProp="image" content="https://www.simplesdental.com/images/site_thumb.png"/><script data-react-helmet="true" type="application/ld+json">{"@context":"https://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}</script><link rel="sitemap" type="application/xml" href="/sitemap/sitemap-index.xml"/><link as="script" rel="preload" href="/webpack-runtime-ba17087a437006df06e0.js"/><link as="script" rel="preload" href="/framework-838d319ad48df22eeab2.js"/><link as="script" rel="preload" href="/app-630e9423f364cda1ede4.js"/><link as="script" rel="preload" href="/49c815e4efac362585728f25ed6a050c8440ff9d-17dc515624efc236d95d.js"/><link as="script" rel="preload" href="/component---src-pages-index-js-82bc85034fc0ceb942d7.js"/><link as="fetch" rel="preload" href="/page-data/index/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2521384599.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/568756470.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/app-data.json" crossorigin="anonymous"/><script>
-(function(w, d, s, l, i) {
-    var host = window.location.hostname;
-    w[l] = w[l] || [];
-    w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-    var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
+		<meta charset="utf-8" />
+        <link rel="icon" href="/favicon.ico" />
+        <title>Keepo - Mobile Site</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="title" content="keepo.io - Keepo - Mobile Site" />
+        <meta name="description" content="Seu incrível site mobile" />
+        <meta property="og:title" content="keepo.io - Keepo - Mobile Site" />
+        <meta property="og:description" content="Seu incrível site mobile" />
+        <meta name="facebook-domain-verification" content="cbn2cqle4vloykex071kl7oxaazpyc" />
 
-    if (host === 'www.simplesdental.com') {
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    } else if (host === 'localhost') {
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl +
-            '&gtm_auth=5daTfKsVXnRmyUlb83_29A&gtm_preview=env-138&gtm_cookies_win=x';
-    } else {
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl +
-            '&gtm_auth=55cpsCFIjPrfS-KTyZQMdw&gtm_preview=env-126&gtm_cookies_win=x';
-    }
+		<meta property="og:site_name" content="home-keepo" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://keepo.io/" />
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">		
 
-    f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-WHK4PG');
-</script><script type="application/ld+json">[{"@context":"https://schema.org/","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"O que é o Simples Dental?","acceptedAnswer":{"@type":"Answer","text":"O Simples Dental é o Software Odontológico da Dental Speed. 100% pensado para a odontologia, o Simples Dental tem três planos: Agenda Online, Gestão e Vendas."}},{"@type":"Question","name":"Por quanto tempo posso testar o Simples Dental?","acceptedAnswer":{"@type":"Answer","text":"Você pode testar o sistema gratuitamente por 7 dias."}},{"@type":"Question","name":"A assinatura do Simples Dental tem fidelidade?","acceptedAnswer":{"@type":"Answer","text":"Não, você pode cancelar quando quiser, sem custos adicionais."}},{"@type":"Question","name":"O Simples Dental está adequada à LGPD?","acceptedAnswer":{"@type":"Answer","text":"Sim, o Simples Dental está com todos os protocolos adequados à Lei Geral de Proteção do Dados."}}]},{"@context":"https://schema.org/","@type":"WebSite","name":"Simples Dental","url":"https://www.simplesdental.com/","description":"Melhor Software Odontológico do Brasil. Whatsapp, Agenda Online, Financeiro."},{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Simples Dental","operatingSystem":"","applicationCategory":"HealthApplication","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","ratingCount":"70"},"offers":[{"@type":"Offer","price":"124.90","priceCurrency":"BRL","name":"Agenda","description":"Cuide de seus pacientes e da sua agenda"},{"@type":"Offer","price":"179.90","priceCurrency":"BRL","name":"Gestão","description":"Descomplique a gestão do seu consultório"},{"@type":"Offer","price":"249.90","priceCurrency":"BRL","name":"Vendas","description":"Mais agilidade no processo de vendas"}]},{"@context":"https://schema.org/","@type":"Organization","name":"Simples Dental","url":"https://www.simplesdental.com/","logo":"https://www.simplesdental.com/wp-content/uploads/2018/02/simplesdental-logo.png","sameAs":["https://pt-br.facebook.com/simplesdental/","https://www.instagram.com/simplesdental/","https://www.linkedin.com/company/simples-dental/","https://www.youtube.com/channel/UCyI9WDzbJj8g8rSlBFY5qCg"]}]</script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://privacyportal-br-cdn.onetrust.com/privacy-notice-scripts/otnotice-1.0.min.js" type="text/javascript" charSet="UTF-8" id="otprivacy-notice-script" async="">settings=eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC1ici5vbmV0cnVzdC5jb20vcmVxdWVzdC92MS9wcml2YWN5Tm90aWNlcy9zdGF0cy92aWV3cyJ9</script></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><link href="https://widget.intercom.io" rel="preconnect" crossorigin=""/><header class="root-module--header--2j4Qn"><nav class="menu-module--menu-container--W10V8 navbar navbar-expand-xl navbar-dark fixed-top"><div class="container"><span class="navbar-brand"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkxIiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMTkxIDM4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy4yNyAwQzIyLjE5NCAwIDIwLjcyNjMgMC41OTI5MzYgMTkuMzEzIDAuOTMzOTVDMTcuOTAwOSAxLjI3MzEyIDE1LjkzMTEgMS40Njk3NCAxNC4zNTEgMS40NTYyM0MxNy45MjU2IDMuMzMyNzMgMjAuMjYwNiA1Ljc2NzE0IDIwLjI2MDYgNS43NjcxNEMxNi44ODE3IDMuNjc2ODIgOC45MTUyNyAwIDUuNDk0NDUgMEMyLjg3Nzg4IDAgMC4wMDQ5NTc4NCAyLjE0ODA5IDEuNjI0NzllLTA1IDUuNTQ4NEMtMC4wMDY3Nzg0NCAxMC4xNzUxIDIuMTE5MzQgMTUuNjkyOCAyLjk1Mzg1IDE5LjI2MDlDNC41Mjk2IDI1Ljk5ODIgNC4wODc5NSAzNi44MjI4IDguMDkwNjQgMzYuODIyOEMxMi40MDQgMzYuODIyOCAxMS4zMDUxIDIyLjIyNDkgMTQuNDA5NyAyMi4yMjQ5QzE3LjUxMzYgMjIuMjI0OSAxNi41NTE5IDM3LjQ4MDkgMjAuNDUzOSAzNy40ODA5QzI0LjM1NTkgMzcuNDgwOSAyNS45MTI1IDE4Ljg4NzkgMjYuODIxMSAxNS45NjMyQzI3LjczMSAxMy4wMzc4IDI4Ljc2NDQgNy4yNTU5MyAyOC43NjQ0IDUuNTQ3NzlDMjguNzY0NCAyLjg3ODA0IDI2LjY5MDIgMCAyMy4yNyAwWiIgZmlsbD0iI0ZERkRGRCIvPjxwYXRoIGQ9Ik0zNy41MTI0IDI3LjI0MTZWMjUuNzk4N0MzOC44MjMzIDI2LjYzMjkgNDAuMTUxMiAyNy4wNSA0MS40OTYxIDI3LjA1QzQyLjkyNjEgMjcuMDUgNDQuMDExNSAyNi43NTY0IDQ0Ljc1MiAyNi4xNjlDNDUuNDkyNiAyNS41NzMyIDQ1Ljg2MjkgMjQuNzQzMiA0NS44NjI5IDIzLjY3OTJDNDUuODYyOSAyMi43NDI5IDQ1LjYxMTcgMjEuOTk4IDQ1LjEwOTUgMjEuNDQ0OEM0NC42MTU4IDIwLjg4MyA0My41MzkgMjAuMTIxMSA0MS44NzkxIDE5LjE1OTJDNDAuMDIzNSAxOC4wNzgyIDM4Ljg0ODggMTcuMTc1OSAzOC4zNTUxIDE2LjQ1MjRDMzcuODYxNCAxNS43MjAzIDM3LjYxNDUgMTQuODc3NiAzNy42MTQ1IDEzLjkyNDJDMzcuNjE0NSAxMi42MzA0IDM4LjExNjggMTEuNTMyMyAzOS4xMjEyIDEwLjYzQzQwLjEyNTYgOS43Mjc3MiA0MS40NjYzIDkuMjc2NTcgNDMuMTQzMiA5LjI3NjU3QzQ0LjIzMjggOS4yNzY1NyA0NS4zMjIzIDkuNDU5NTggNDYuNDExOSA5LjgyNTYxVjExLjE1MzVDNDUuMzM5NCAxMC42NjgzIDQ0LjE5NDUgMTAuNDI1NyA0Mi45NzcyIDEwLjQyNTdDNDEuNzM0NCAxMC40MjU3IDQwLjc0NyAxMC43NDA3IDQwLjAxNSAxMS4zNzA2QzM5LjI5MTQgMTIuMDAwNSAzOC45Mjk3IDEyLjgwMDYgMzguOTI5NyAxMy43NzFDMzguOTI5NyAxNC43MDc0IDM5LjE3NjUgMTUuNDUyMiAzOS42NzAyIDE2LjAwNTVDNDAuMTcyNSAxNi41NTg4IDQxLjI0OTIgMTcuMzEyMSA0Mi45MDA2IDE4LjI2NTVDNDQuNjExNiAxOS4yMzU4IDQ1Ljc0NzkgMjAuMDk5OCA0Ni4zMDk3IDIwLjg1NzRDNDYuODgwMSAyMS42MDY1IDQ3LjE2NTIgMjIuNDcwNSA0Ny4xNjUyIDIzLjQ0OTRDNDcuMTY1MiAyNC44NTM5IDQ2LjY3NTggMjUuOTk4OCA0NS42OTY5IDI2Ljg4NDFDNDQuNzI2NSAyNy43NjkzIDQzLjM1MTggMjguMjEyIDQxLjU3MjcgMjguMjEyQzQwLjk0MjggMjguMjEyIDQwLjIxNSAyOC4xMTQxIDM5LjM4OTMgMjcuOTE4M0MzOC41NzIyIDI3LjcyMjUgMzcuOTQ2NSAyNy40OTY5IDM3LjUxMjQgMjcuMjQxNloiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTUxLjAxMjEgMTEuNTIzOEM1MC43NTY3IDExLjUyMzggNTAuNTMxMSAxMS40MzAyIDUwLjMzNTMgMTEuMjQyOUM1MC4xMzk2IDExLjA1NTYgNTAuMDQxNyAxMC44MTczIDUwLjA0MTcgMTAuNTI3OUM1MC4wNDE3IDEwLjI0NyA1MC4xMzk2IDEwLjAyMTQgNTAuMzM1MyA5Ljg1MTE1QzUwLjUzOTYgOS42NzIzOSA1MC43NjUyIDkuNTgzMDEgNTEuMDEyMSA5LjU4MzAxQzUxLjI3NTkgOS41ODMwMSA1MS41MDU4IDkuNjY4MTMgNTEuNzAxNSA5LjgzODM4QzUxLjkwNTggMTAuMDA4NiA1Mi4wMDggMTAuMjM4NSA1Mi4wMDggMTAuNTI3OUM1Mi4wMDggMTAuODAwMyA1MS45MTAxIDExLjAzNDMgNTEuNzE0MyAxMS4yMzAxQzUxLjUxODUgMTEuNDI1OSA1MS4yODQ0IDExLjUyMzggNTEuMDEyMSAxMS41MjM4Wk01MC40Mzc1IDI3Ljg5MjdWMTQuODE4SDUxLjYxMjJWMjcuODkyN0g1MC40Mzc1WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNzEuODAyNCAyNy44OTI3VjIwLjAyNzVDNzEuODAyNCAxOC4zODQ2IDcxLjU0MjggMTcuMjMxMiA3MS4wMjM1IDE2LjU2NzNDNzAuNTEyOCAxNS45MDMzIDY5LjY5OTkgMTUuNTcxMyA2OC41ODQ4IDE1LjU3MTNDNjcuNTU0OCAxNS41NzEzIDY2LjY2NTMgMTYuMDE0IDY1LjkxNjIgMTYuODk5MkM2NS4xNjcyIDE3Ljc4NDUgNjQuNzkyNiAxOC44OTU0IDY0Ljc5MjYgMjAuMjMxOFYyNy44OTI3SDYzLjYxNzlWMTkuOTM4MUM2My42MTc5IDE3LjAyNjkgNjIuNTExMyAxNS41NzEzIDYwLjI5ODIgMTUuNTcxM0M1OS4yMzQyIDE1LjU3MTMgNTguMzQ4OSAxNi4wMTgyIDU3LjY0MjQgMTYuOTEyQzU2LjkzNTkgMTcuNzk3MyA1Ni41ODI2IDE4Ljk0NjQgNTYuNTgyNiAyMC4zNTk1VjI3Ljg5MjdINTUuNDA3OVYxNC44MThINTYuNTgyNlYxNi45ODg2SDU2LjYzMzdDNTcuNTQ0NSAxNS4zMjg3IDU4Ljg3NjYgMTQuNDk4OCA2MC42MzAyIDE0LjQ5ODhDNjEuNTgzNSAxNC40OTg4IDYyLjM5NjQgMTQuNzc1NSA2My4wNjg5IDE1LjMyODdDNjMuNzQ5OSAxNS44NzM1IDY0LjIwOTUgMTYuNTkyOCA2NC40NDc5IDE3LjQ4NjZDNjQuODU2NSAxNi41NDE3IDY1LjQzOTUgMTUuODA5NyA2Ni4xOTcxIDE1LjI5MDRDNjYuOTYzMiAxNC43NjI3IDY3Ljc5MzIgMTQuNDk4OCA2OC42ODY5IDE0LjQ5ODhDNzEuNTQ3IDE0LjQ5ODggNzIuOTc3MSAxNi4yNjkzIDcyLjk3NzEgMTkuODEwNFYyNy44OTI3SDcxLjgwMjRaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik03Ny43NDMyIDI1LjU2ODlINzcuNjkyMlYzMy45MDY2SDc2LjUxNzVWMTQuODE4SDc3LjY5MjJWMTcuNTEyMUg3Ny43NDMyQzc4LjIxMTQgMTYuNTUwMiA3OC44Nzk2IDE1LjgwOTcgNzkuNzQ3OSAxNS4yOTA0QzgwLjYyNDYgMTQuNzYyNyA4MS41ODY1IDE0LjQ5ODggODIuNjMzNSAxNC40OTg4Qzg0LjI5MzQgMTQuNDk4OCA4NS41ODcyIDE1LjA3MzQgODYuNTE1MSAxNi4yMjI1Qzg3LjQ1MTQgMTcuMzYzMiA4Ny45MTk2IDE4LjkxNjYgODcuOTE5NiAyMC44ODNDODcuOTE5NiAyMy4wNzA2IDg3LjM4MzMgMjQuODQxMSA4Ni4zMTA4IDI2LjE5NDZDODUuMjQ2NyAyNy41Mzk1IDgzLjgzOCAyOC4yMTIgODIuMDg0NSAyOC4yMTJDODAuMTI2NyAyOC4yMTIgNzguNjc5NiAyNy4zMzA5IDc3Ljc0MzIgMjUuNTY4OVpNNzcuNjkyMiAyMC43MDQyVjIyLjM1MTNDNzcuNjkyMiAyMy42NjIyIDc4LjEwNSAyNC43OTAxIDc4LjkzMDcgMjUuNzM0OUM3OS43NTY0IDI2LjY3MTIgODAuODQxNyAyNy4xMzk0IDgyLjE4NjYgMjcuMTM5NEM4My41MjMgMjcuMTM5NCA4NC42MDgzIDI2LjU2OTEgODUuNDQyNSAyNS40Mjg1Qzg2LjI3NjcgMjQuMjc5MyA4Ni42OTM4IDIyLjc3MjcgODYuNjkzOCAyMC45MDg1Qzg2LjY5MzggMTkuMjc0MSA4Ni4zMTA4IDE3Ljk3NiA4NS41NDQ3IDE3LjAxNDJDODQuNzc4NiAxNi4wNTIzIDgzLjc1NzEgMTUuNTcxMyA4Mi40ODAzIDE1LjU3MTNDODAuOTU2NiAxNS41NzEzIDc5Ljc3NzcgMTYuMDgyMSA3OC45NDM1IDE3LjEwMzVDNzguMTA5MyAxOC4xMjUgNzcuNjkyMiAxOS4zMjUyIDc3LjY5MjIgMjAuNzA0MloiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTkwLjc4MzIgMjcuODkyN1Y4LjUzNjAxSDkxLjk1NzlWMjcuODkyN0g5MC43ODMyWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNOTYuMDM0NiAyMS40MDY1Qzk2LjAzNDYgMjMuMjAyNSA5Ni40NDc0IDI0LjYwNyA5Ny4yNzMxIDI1LjYyQzk4LjEwNzMgMjYuNjMyOSA5OS4yNDc5IDI3LjEzOTQgMTAwLjY5NSAyNy4xMzk0QzEwMi4xNTkgMjcuMTM5NCAxMDMuNTg5IDI2LjU5ODkgMTA0Ljk4NSAyNS41MTc4VjI2Ljc2OTFDMTAzLjYzMiAyNy43MzEgMTAyLjEyMSAyOC4yMTIgMTAwLjQ1MiAyOC4yMTJDOTguNzY3IDI4LjIxMiA5Ny40MDUxIDI3LjYwNzYgOTYuMzY2NiAyNi4zOTg5Qzk1LjMyODEgMjUuMTkwMSA5NC44MDg4IDIzLjQ4MzQgOTQuODA4OCAyMS4yNzg4Qzk0LjgwODggMTkuMzcyIDk1LjM0OTQgMTcuNzY3NSA5Ni40MzA0IDE2LjQ2NTFDOTcuNTIgMTUuMTU0MiA5OC45MzMgMTQuNDk4OCAxMDAuNjY5IDE0LjQ5ODhDMTAyLjI5NSAxNC40OTg4IDEwMy41NDIgMTUuMDY5MSAxMDQuNDExIDE2LjIwOThDMTA1LjI3OSAxNy4zNTA0IDEwNS43MTMgMTguOTA4MSAxMDUuNzEzIDIwLjg4M1YyMS40MDY1SDk2LjAzNDZaTTEwNC40ODcgMjAuMzMzOUMxMDQuNDM2IDE4LjgyNzMgMTA0LjA3NCAxNy42NTY4IDEwMy40MDIgMTYuODIyNkMxMDIuNzI5IDE1Ljk4ODQgMTAxLjgwMiAxNS41NzEzIDEwMC42MTggMTUuNTcxM0M5OS4zOTI3IDE1LjU3MTMgOTguMzc1NCAxNS45ODQyIDk3LjU2NjggMTYuODA5OUM5Ni43NjY2IDE3LjYyNyA5Ni4yNzI5IDE4LjgwMTcgOTYuMDg1NyAyMC4zMzM5SDEwNC40ODdaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMDcuODg3IDI3LjMxODJWMjUuOTAwOUMxMDguMzMgMjYuMjgzOSAxMDguODY2IDI2LjU4NjEgMTA5LjQ5NiAyNi44MDc0QzExMC4xMjYgMjcuMDI4OCAxMTAuNjcxIDI3LjEzOTQgMTExLjEzIDI3LjEzOTRDMTEzLjE4MiAyNy4xMzk0IDExNC4yMDcgMjYuMzAxIDExNC4yMDcgMjQuNjI0MUMxMTQuMjA3IDI0LjA0NTIgMTEzLjk4MiAyMy41NTE1IDExMy41MzEgMjMuMTQyOUMxMTMuMDggMjIuNzM0NCAxMTIuMzQ4IDIyLjMxMyAxMTEuMzM1IDIxLjg3ODlDMTEwLjA4MyAyMS4zMzQxIDEwOS4yMDIgMjAuNzcyMyAxMDguNjkyIDIwLjE5MzVDMTA4LjE4OSAxOS42MDYxIDEwNy45MzggMTguODk1NCAxMDcuOTM4IDE4LjA2MTJDMTA3LjkzOCAxNi45OTcxIDEwOC4zNDMgMTYuMTM3NCAxMDkuMTUxIDE1LjQ4MkMxMDkuOTY4IDE0LjgyNjUgMTEwLjk3MyAxNC40OTg4IDExMi4xNjUgMTQuNDk4OEMxMTMuMjg4IDE0LjQ5ODggMTE0LjI1IDE0LjcyODYgMTE1LjA1IDE1LjE4ODNWMTYuNTE2MkMxMTQuMDggMTUuODg2MyAxMTMuMDc1IDE1LjU3MTMgMTEyLjAzNyAxNS41NzEzQzExMS4xNzcgMTUuNTcxMyAxMTAuNDgzIDE1Ljc5NjkgMTA5Ljk1NiAxNi4yNDgxQzEwOS40MjggMTYuNjkwNyAxMDkuMTY0IDE3LjI2OTUgMTA5LjE2NCAxNy45ODQ1QzEwOS4xNjQgMTguNjA1OSAxMDkuMzMgMTkuMTEyNCAxMDkuNjYyIDE5LjUwNEMxMDkuOTk0IDE5Ljg4NyAxMTAuNzI2IDIwLjMyOTcgMTExLjg1OCAyMC44MzE5QzExMy4yMiAyMS40NDQ4IDExNC4xNTYgMjIuMDE1MSAxMTQuNjY3IDIyLjU0MjhDMTE1LjE3OCAyMy4wNjIxIDExNS40MzMgMjMuNzU1OCAxMTUuNDMzIDI0LjYyNDFDMTE1LjQzMyAyNS42NjI2IDExNS4wNDIgMjYuNTIyMyAxMTQuMjU5IDI3LjIwMzNDMTEzLjQ4NCAyNy44NzU3IDExMi40MTEgMjguMjEyIDExMS4wNDEgMjguMjEyQzEwOS43ODEgMjguMjEyIDEwOC43MyAyNy45MTQgMTA3Ljg4NyAyNy4zMTgyWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTE4LjUwMSAyNy44OTI3VjkuNTgzMDFIMTIzLjc4N0MxMzAuNTM3IDkuNTgzMDEgMTMzLjkxMiAxMi41NTggMTMzLjkxMiAxOC41MDhDMTMzLjkxMiAyMS4zMzQxIDEzMi45NzYgMjMuNjA2OSAxMzEuMTAzIDI1LjMyNjNDMTI5LjIzMSAyNy4wMzczIDEyNi43MiAyNy44OTI3IDEyMy41NyAyNy44OTI3SDExOC41MDFaTTEyMS41MjcgMTIuMTYyMlYyNS4zMjYzSDEyMy45NTNDMTI2LjA5IDI1LjMyNjMgMTI3Ljc1IDI0LjczOSAxMjguOTMzIDIzLjU2NDNDMTMwLjEyNSAyMi4zODk2IDEzMC43MiAyMC43Mjk3IDEzMC43MiAxOC41ODQ3QzEzMC43MiAxNC4zMDMgMTI4LjUwMyAxMi4xNjIyIDEyNC4wNjggMTIuMTYyMkgxMjEuNTI3WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTQ3LjYxNiAyMi4xNTk4SDEzOC43MDRDMTM4LjczOCAyMy4zNjg1IDEzOS4xMDkgMjQuMzAwNiAxMzkuODE1IDI0Ljk1NkMxNDAuNTMgMjUuNjExNSAxNDEuNTA5IDI1LjkzOTIgMTQyLjc1MiAyNS45MzkyQzE0NC4xNDggMjUuOTM5MiAxNDUuNDI5IDI1LjUyMjEgMTQ2LjU5NSAyNC42ODc5VjI3LjA3NTZDMTQ1LjQwMyAyNy44MjQ2IDE0My44MjkgMjguMTk5MiAxNDEuODcxIDI4LjE5OTJDMTM5Ljk0NyAyOC4xOTkyIDEzOC40MzYgMjcuNjA3NiAxMzcuMzM4IDI2LjQyNDRDMTM2LjI0OCAyNS4yMzI3IDEzNS43MDQgMjMuNTYgMTM1LjcwNCAyMS40MDY1QzEzNS43MDQgMTkuMzcyIDEzNi4zMDQgMTcuNzE2NCAxMzcuNTA0IDE2LjQzOTZDMTM4LjcxMyAxNS4xNTQyIDE0MC4yMTEgMTQuNTExNiAxNDEuOTk4IDE0LjUxMTZDMTQzLjc4NiAxNC41MTE2IDE0NS4xNjkgMTUuMDg2MSAxNDYuMTQ4IDE2LjIzNTNDMTQ3LjEyNyAxNy4zODQ0IDE0Ny42MTYgMTguOTgwNSAxNDcuNjE2IDIxLjAyMzRWMjIuMTU5OFpNMTQ0Ljc1NiAyMC4wNjU4QzE0NC43NDggMTkuMDAxOCAxNDQuNDk3IDE4LjE3NjEgMTQ0LjAwMyAxNy41ODg3QzE0My41MDkgMTYuOTkyOSAxNDIuODI4IDE2LjY5NSAxNDEuOTYgMTYuNjk1QzE0MS4xMDkgMTYuNjk1IDE0MC4zODUgMTcuMDA1NiAxMzkuNzg5IDE3LjYyN0MxMzkuMjAyIDE4LjI0ODQgMTM4Ljg0IDE5LjA2MTMgMTM4LjcwNCAyMC4wNjU4SDE0NC43NTZaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNjEuNjkxIDI3Ljg5MjdIMTU4LjcyOFYyMC41MjU0QzE1OC43MjggMTguMDgyNCAxNTcuODY0IDE2Ljg2MDkgMTU2LjEzNiAxNi44NjA5QzE1NS4yMzQgMTYuODYwOSAxNTQuNDg5IDE3LjIwMTQgMTUzLjkwMiAxNy44ODI0QzE1My4zMTUgMTguNTU0OSAxNTMuMDIxIDE5LjQwNjEgMTUzLjAyMSAyMC40MzYxVjI3Ljg5MjdIMTUwLjA0NlYxNC44MThIMTUzLjAyMVYxNi45ODg2SDE1My4wNzJDMTU0LjA1MSAxNS4zMzczIDE1NS40NjQgMTQuNTExNiAxNTcuMzExIDE0LjUxMTZDMTU4LjczMyAxNC41MTE2IDE1OS44MTggMTQuOTc1NSAxNjAuNTY3IDE1LjkwMzNDMTYxLjMxNiAxNi44MjI2IDE2MS42OTEgMTguMTU0OCAxNjEuNjkxIDE5Ljg5OThWMjcuODkyN1oiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTE3MS44MiAyNy43NTIzQzE3MS4yNDEgMjguMDQxNyAxNzAuNDc5IDI4LjE4NjQgMTY5LjUzNCAyOC4xODY0QzE2Ni45OTcgMjguMTg2NCAxNjUuNzI5IDI2Ljk2OTIgMTY1LjcyOSAyNC41MzQ3VjE3LjE0MThIMTYzLjU0NlYxNC44MThIMTY1LjcyOVYxMS43OTE5TDE2OC42OTEgMTAuOTQ5MlYxNC44MThIMTcxLjgyVjE3LjE0MThIMTY4LjY5MVYyMy42NzkyQzE2OC42OTEgMjQuNDUzOCAxNjguODMyIDI1LjAwNzEgMTY5LjExMyAyNS4zMzkxQzE2OS4zOTQgMjUuNjcxMSAxNjkuODYyIDI1LjgzNzEgMTcwLjUxNyAyNS44MzcxQzE3MS4wMTkgMjUuODM3MSAxNzEuNDU0IDI1LjY5MjMgMTcxLjgyIDI1LjQwMjlWMjcuNzUyM1oiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTE4NC4wMTcgMjcuODkyN0gxODEuMTQ0VjI1Ljg0OThIMTgxLjA5M0MxODAuMTkxIDI3LjQxNjEgMTc4Ljg2NyAyOC4xOTkyIDE3Ny4xMjIgMjguMTk5MkMxNzUuODM3IDI4LjE5OTIgMTc0LjgyOCAyNy44NTAyIDE3NC4wOTYgMjcuMTUyMkMxNzMuMzcyIDI2LjQ1NDIgMTczLjAxMSAyNS41MzA2IDE3My4wMTEgMjQuMzgxNUMxNzMuMDExIDIxLjkxMjkgMTc0LjQzMiAyMC40NzQ0IDE3Ny4yNzUgMjAuMDY1OEwxODEuMTU3IDE5LjUxNjdDMTgxLjE1NyAxNy42NTI2IDE4MC4yNzEgMTYuNzIwNSAxNzguNTAxIDE2LjcyMDVDMTc2Ljk0MyAxNi43MjA1IDE3NS41MzkgMTcuMjU2OCAxNzQuMjg3IDE4LjMyOTNWMTUuNzM3M0MxNzUuNjY2IDE0LjkyMDIgMTc3LjI1OCAxNC41MTE2IDE3OS4wNjMgMTQuNTExNkMxODIuMzY1IDE0LjUxMTYgMTg0LjAxNyAxNi4xMzc0IDE4NC4wMTcgMTkuMzg5MVYyNy44OTI3Wk0xODEuMTU3IDIxLjQ3MDNMMTc4LjQxMiAyMS44NTMzQzE3Ny41NiAyMS45NjQgMTc2LjkxOCAyMi4xNzI2IDE3Ni40ODQgMjIuNDc5QzE3Ni4wNTggMjIuNzc2OSAxNzUuODQ1IDIzLjMwNDcgMTc1Ljg0NSAyNC4wNjIzQzE3NS44NDUgMjQuNjE1NiAxNzYuMDQxIDI1LjA3MSAxNzYuNDMyIDI1LjQyODVDMTc2LjgzMyAyNS43Nzc1IDE3Ny4zNjUgMjUuOTUyIDE3OC4wMjggMjUuOTUyQzE3OC45MzEgMjUuOTUyIDE3OS42NzYgMjUuNjM3IDE4MC4yNjMgMjUuMDA3MUMxODAuODU5IDI0LjM2ODcgMTgxLjE1NyAyMy41Njg2IDE4MS4xNTcgMjIuNjA2N1YyMS40NzAzWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTkwLjIyNiAyNy44OTI3SDE4Ny4yNTFWOC41MzYwMUgxOTAuMjI2VjI3Ljg5MjdaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="logo" class="menu-module--logo--HUJLK" loading="lazy"/></span><button aria-controls="basic-navbar-nav" type="button" aria-label="Toggle navigation" class="menu-module--toogle--L1IhY navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="basic-navbar-nav"><div class="mr-auto navbar-nav"><div class="dropdown"><a href="#drop" class="menu-module--dropdown-toogle--1O17V menu-module--main-toogle--1N73f dropdown-toggle"><span class="">Funcionalidade</span><svg fill="#FFFFFF" width="12" height="13" viewBox="0 0 8 13"><path d="M-6.16331e-08 11.2951L4.58 6.70508L-4.62904e-07 2.11508L1.41 0.705078L7.41 6.70508L1.41 12.7051L-6.16331e-08 11.2951Z"></path></svg></a></div><a href="#" class="pointer nav-link" role="button">Lançamentos 2022</a><a href="#" class="nav-link" role="button">Planos</a><a href="#" class="pointer nav-link" role="button">Blog</a></div></div><div class="menu-module--actions--2euIt"><a href="https://app.simplesdental.com/simples/" target="_blank" rel="noreferrer">Acessar</a><button class="sd-button transparent">Teste grátis</button></div></div></nav><div class="container"><div class="hero-module--container--1uNdh"><div class="hero-module--hero-text--3bvGv"><h1 class="hero-module--title--JsBYW">O melhor software odontológico para<!-- --> <div class="type-write"><span style="color:#a6f7f7"></span></div></h1><h2 class="hero-module--subtitle--1iMcA">O Simples Dental tem todas as ferramentas que você precisa para sua clínica crescer.</h2><div class="hero-module--hero-actions--15jGq"><div class="hero-module--hero-buttons--1GBEf"><button class="sd-button orange">Testar grátis 7 dias</button><button class="sd-button green">Falar com especialista</button></div><p>Não é necessário cartão de crédito ;)</p></div></div><img src="/static/agenda-desktop-62741fd741d9d410a639f1da048e6370.svg" alt="Software odontológico" class="hero-module--img-desktop--wjgCS"/></div></div><div class="hero-module--after--3O1-V"></div></header><div class="container"><div class="funcionalidade-module--container--1W-Lj funcionalidade-module--mb-big--2JGlS"><div class="funcionalidade-module--funcionalidade-img--1qieB"><img src="/static/novidades-88f5b9d63160774c016adeea24ae8b58.svg" alt="Novidades Simples Dental 2022" loading="lazy"/></div><div class="funcionalidade-module--funcionalidade-text--1fxjJ"><p class="funcionalidade-module--subtitle--3fyWr">Odontologia sem papel</p><h2 class="funcionalidade-module--title--1VtyB">Novidades Simples Dental 2022</h2><div class="novidades-module--container--3HhSg"><div class="novidades-module--novidade-item--1P1YY"><p><strong>Assinatura Eletrônica:</strong> <!-- -->sua clínica livre do papel.</p></div><div class="novidades-module--novidade-item--1P1YY"><p><strong>Orçamento Parcial:</strong> <!-- -->uma nova maneira de fazer planejamentos para seus pacientes.</p></div><div class="novidades-module--novidade-item--1P1YY"><p><strong>Odontograma:</strong> <!-- -->a maneira mais rápida de fazer planos de tratamentos que vendem mais.</p></div><div class="novidades-module--novidade-item--1P1YY"><p><strong>Novo App Simples Dental:</strong> <!-- -->gerencie sua agenda e as fichas de seus pacientes diretamente pelo celular.</p></div><div class="novidades-module--novidade-item--1P1YY"><p><strong>App Meu doutor:</strong> <!-- -->o aplicativo para você conectar sua clínica e seus pacientes.</p></div></div><button class="sd-button primary funcionalidade-module--button--2zmtW">Saiba mais</button></div><div class="funcionalidade-module--line--2JQb7"></div></div></div><div class="container"><div class="funcionalidade-module--container--1W-Lj funcionalidade-module--left--2Dgih funcionalidade-module--mb-big--2JGlS"><div class="funcionalidade-module--funcionalidade-img--1qieB"><img src="/static/vendas-01de8483d11441a2ef4869a4bc1354c2.svg" alt="Simples Dental, software odontológico para marketing e vendas" loading="lazy"/></div><div class="funcionalidade-module--funcionalidade-text--1fxjJ"><p class="funcionalidade-module--subtitle--3fyWr">automatização é tudo</p><h2 class="funcionalidade-module--title--1VtyB">Marketing e Vendas para Dentistas</h2><p class="funcionalidade-module--desc--38PwK">Venda mais com a ferramenta de vendas e campanhas automáticas de WhatsApp e SMS seu time tem muito mais tempo para captar mais clientes todos os dias.</p><button class="sd-button primary funcionalidade-module--button--2zmtW">Saiba mais</button><div class="funcionalidade-module--statement--2RMdN"><div class="funcionalidade-module--img--36bAq"></div><div><p>&quot;<!-- -->A ferramenta de vendas me permitiu ter maior controle nas oportunidades de vendas!<!-- -->&quot;</p><span>Isaac de Assis Ferreira - Diretor Clínico</span></div></div></div><div class="funcionalidade-module--line--2JQb7"></div></div></div><div class="container"><div class="funcionalidade-module--container--1W-Lj funcionalidade-module--mb-big--2JGlS"><div class="funcionalidade-module--funcionalidade-img--1qieB"><img src="/static/gestao-736aad2b2fc19f4a18c3107cfe325762.svg" alt="Software para controle financeiro e de gestão" loading="lazy"/></div><div class="funcionalidade-module--funcionalidade-text--1fxjJ"><p class="funcionalidade-module--subtitle--3fyWr">ganhe mais tempo</p><h2 class="funcionalidade-module--title--1VtyB">Gestão e Controle Financeiro</h2><p class="funcionalidade-module--desc--38PwK">Tome as melhores decisões: controle seus indicadores e seu fluxo de caixa diariamente. Ganhe tempo com a automação de boletos, comissionamento para dentistas e integração com a maquininha de cartão.</p><button class="sd-button primary funcionalidade-module--button--2zmtW">Saiba mais</button><div class="funcionalidade-module--statement--2RMdN"><div class="funcionalidade-module--img--36bAq"></div><div><p>&quot;<!-- -->Aposentei minhas planilhas e hoje tenho controle total sobre entradas e saídas financeiras.<!-- -->&quot;</p><span>Bruno Ecco - Dentista Administrador </span></div></div></div><div class="funcionalidade-module--line--2JQb7"></div></div></div><div class="container"><div class="funcionalidade-module--container--1W-Lj funcionalidade-module--left--2Dgih funcionalidade-module--mb-big--2JGlS"><div class="funcionalidade-module--funcionalidade-img--1qieB"><img src="/static/atendimento-212d69fb936ce5dd03efe0c36eea9627.svg" alt="Simples Dental, seu prontuário digital" loading="lazy"/></div><div class="funcionalidade-module--funcionalidade-text--1fxjJ"><p class="funcionalidade-module--subtitle--3fyWr">adeus papelada</p><h2 class="funcionalidade-module--title--1VtyB">Prontuário Digital</h2><p class="funcionalidade-module--desc--38PwK">Adeus à papelada! Acesse rapidamente o histórico de seus pacientes como orçamentos, imagens, receituários e muito mais. Agilidade e segurança.</p><button class="sd-button primary funcionalidade-module--button--2zmtW">Saiba mais</button><div class="funcionalidade-module--statement--2RMdN"><div class="funcionalidade-module--img--36bAq"></div><div><p>&quot;<!-- -->O prontuário digital permitiu eliminar todas as fichas de papel, que ocupavam muito espaço na clínica!<!-- -->&quot;</p><span>Stanley Lira - Diretor administrativo</span></div></div></div><div class="funcionalidade-module--line--2JQb7"></div></div></div><div class="container"><div class="funcionalidade-module--container--1W-Lj"><div class="funcionalidade-module--funcionalidade-img--1qieB"><img src="/static/agendamento-7ee686a439c63badbb216e42903cd3a4.svg" alt="Agenda online Simples dental" loading="lazy"/></div><div class="funcionalidade-module--funcionalidade-text--1fxjJ"><p class="funcionalidade-module--subtitle--3fyWr">tudo no seu bolso</p><h2 class="funcionalidade-module--title--1VtyB">Agenda Online</h2><p class="funcionalidade-module--desc--38PwK">Acesse sua agenda em qualquer lugar controle da sua agenda de forma simples, rápida e sem papel, integrada com WhatsApp e SMS.</p><button class="sd-button primary funcionalidade-module--button--2zmtW">Saiba mais</button><div class="funcionalidade-module--statement--2RMdN"><div class="funcionalidade-module--img--36bAq"></div><div><p>&quot;<!-- -->A agenda online facilita e deixa muito mais prático a marcação de consultas e alertas de retorno.<!-- -->&quot;</p><span>Kalise Tainá de Oliveira - Secretária</span></div></div></div></div></div><div class="container"><div class="numbers-module--container--2i2Tq"><div class="row"><div class="col"><div class="numbers-module--item--1savl"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjQuNzUwMSA0NUMzMi44MjczIDQ1IDM5LjM3NTEgMzguNDUyMiAzOS4zNzUxIDMwLjM3NUMzOS4zNzUxIDIyLjI5NzggMzIuODI3MyAxNS43NSAyNC43NTAxIDE1Ljc1QzE2LjY3MyAxNS43NSAxMC4xMjUxIDIyLjI5NzggMTAuMTI1MSAzMC4zNzVDMTAuMTI1MSAzOC40NTIyIDE2LjY3MyA0NSAyNC43NTAxIDQ1WiIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjMuNjU2MjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00My43MDk3IDE2LjI5NDdDNDUuNzIxMyAxNS43MjggNDcuODMwOSAxNS41OTg4IDQ5Ljg5NjYgMTUuOTE2MUM1MS45NjIyIDE2LjIzMzMgNTMuOTM1OSAxNi45ODk1IDU1LjY4NDcgMTguMTMzOEM1Ny40MzM1IDE5LjI3OCA1OC45MTY4IDIwLjc4MzcgNjAuMDM0NyAyMi41NDk1QzYxLjE1MjUgMjQuMzE1MyA2MS44NzkgMjYuMzAwMSA2Mi4xNjUyIDI4LjM3MDNDNjIuNDUxNCAzMC40NDA0IDYyLjI5MDcgMzIuNTQ3OSA2MS42OTM4IDM0LjU1MDdDNjEuMDk2OSAzNi41NTM2IDYwLjA3NzcgMzguNDA1MiA1OC43MDUgMzkuOTgxQzU3LjMzMjIgNDEuNTU2OCA1NS42Mzc3IDQyLjgyMDEgNTMuNzM1NiA0My42ODU5QzUxLjgzMzUgNDQuNTUxNiA0OS43Njc5IDQ0Ljk5OTcgNDcuNjc4IDQ0Ljk5OTkiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjY1NjI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNNC40OTg5IDU1LjUxNzhDNi43ODMwMyA1Mi4yNjg4IDkuODE1MzUgNDkuNjE3MSAxMy4zMzk5IDQ3Ljc4NjVDMTYuODY0NCA0NS45NTU5IDIwLjc3NzYgNDUuMDAwMiAyNC43NDkxIDQ1QzI4LjcyMDcgNDQuOTk5OCAzMi42MzQgNDUuOTU1MyAzNi4xNTg2IDQ3Ljc4NTZDMzkuNjgzMyA0OS42MTU5IDQyLjcxNTggNTIuMjY3NCA0NS4wMDAyIDU1LjUxNjMiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjY1NjI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNNDcuNjc4MSA0NUM1MS42NSA0NC45OTcxIDU1LjU2NDIgNDUuOTUxNCA1OS4wODkxIDQ3Ljc4MTlDNjIuNjE0IDQ5LjYxMjUgNjUuNjQ2IDUyLjI2NTUgNjcuOTI4MiA1NS41MTYzIiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy42NTYyNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" alt="Usuários ativos" class="numbers-module--image--3EwKg"/><span class="numbers-module--number--2-m7Q">45 mil</span><p class="numbers-module--text--_tSiG">usuários ativos</p></div></div><div class="col"><div class="numbers-module--item--1savl"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjYiIGhlaWdodD0iNjYiIHZpZXdCb3g9IjAgMCA2NiA2NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTMuNjI1IDEwLjMxMjVIMTIuMzc1QzExLjIzNTkgMTAuMzEyNSAxMC4zMTI1IDExLjIzNTkgMTAuMzEyNSAxMi4zNzVWNTMuNjI1QzEwLjMxMjUgNTQuNzY0MSAxMS4yMzU5IDU1LjY4NzUgMTIuMzc1IDU1LjY4NzVINTMuNjI1QzU0Ljc2NDEgNTUuNjg3NSA1NS42ODc1IDU0Ljc2NDEgNTUuNjg3NSA1My42MjVWMTIuMzc1QzU1LjY4NzUgMTEuMjM1OSA1NC43NjQxIDEwLjMxMjUgNTMuNjI1IDEwLjMxMjVaIiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy4wOTM3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTQ1LjM3NSA2LjE4NzVWMTQuNDM3NSIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjMuMDkzNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMC42MjUgNi4xODc1VjE0LjQzNzUiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjA5Mzc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTAuMzEyNSAyMi42ODc1SDU1LjY4NzUiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjA5Mzc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" alt="consultas por dia" class="numbers-module--image--3EwKg"/><span class="numbers-module--number--2-m7Q">100 mil</span><p class="numbers-module--text--_tSiG">consultas por dia</p></div></div><div class="col"><div class="numbers-module--item--1savl"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjYiIGhlaWdodD0iNjYiIHZpZXdCb3g9IjAgMCA2NiA2NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjQuNzUgMzkuMTg3NUg0MS4yNSIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjMuNDgwNDciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yNC43NSAzMC45Mzc1SDQxLjI1IiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy40ODA0NyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTQxLjI1MDUgMTAuMzEyNUg1MS41NjI1QzUyLjEwOTUgMTAuMzEyNSA1Mi42MzQxIDEwLjUyOTggNTMuMDIwOSAxMC45MTY2QzUzLjQwNzcgMTEuMzAzNCA1My42MjUgMTEuODI4IDUzLjYyNSAxMi4zNzVWNTUuNjg3NUM1My42MjUgNTYuMjM0NSA1My40MDc3IDU2Ljc1OTEgNTMuMDIwOSA1Ny4xNDU5QzUyLjYzNDEgNTcuNTMyNyA1Mi4xMDk1IDU3Ljc1IDUxLjU2MjUgNTcuNzVIMTQuNDM3NUMxMy44OTA1IDU3Ljc1IDEzLjM2NTkgNTcuNTMyNyAxMi45NzkxIDU3LjE0NTlDMTIuNTkyMyA1Ni43NTkxIDEyLjM3NSA1Ni4yMzQ1IDEyLjM3NSA1NS42ODc1VjEyLjM3NUMxMi4zNzUgMTEuODI4IDEyLjU5MjMgMTEuMzAzNCAxMi45NzkxIDEwLjkxNjZDMTMuMzY1OSAxMC41Mjk4IDEzLjg5MDUgMTAuMzEyNSAxNC40Mzc1IDEwLjMxMjVIMjQuNzQ5NCIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjMuNDgwNDciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMi42ODc1IDE4LjU2MjVWMTYuNUMyMi42ODc1IDEzLjc2NSAyMy43NzQgMTEuMTQxOSAyNS43MDggOS4yMDc5NkMyNy42NDE5IDcuMjczOTkgMzAuMjY1IDYuMTg3NSAzMyA2LjE4NzVDMzUuNzM1IDYuMTg3NSAzOC4zNTgxIDcuMjczOTkgNDAuMjkyIDkuMjA3OTZDNDIuMjI2IDExLjE0MTkgNDMuMzEyNSAxMy43NjUgNDMuMzEyNSAxNi41VjE4LjU2MjVIMjIuNjg3NVoiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjQ4MDQ3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" alt="pacientes cadastrados" class="numbers-module--image--3EwKg"/><span class="numbers-module--number--2-m7Q">20 milhões</span><p class="numbers-module--text--_tSiG">pacientes cadastrados</p></div></div><div class="col"><div class="numbers-module--item--1savl numbers-module--no-after--12DQe"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTUuNzUgMTUuNzVWMzEuMjQ1OEMxNS43NSA0Mi40MTE2IDI0LjY4MSA1MS42NjY3IDM1Ljg0NjUgNTEuNzQ5NEMzOC41MTg2IDUxLjc2OTcgNDEuMTY4MyA1MS4yNjA5IDQzLjY0MjggNTAuMjUyM0M0Ni4xMTc0IDQ5LjI0MzggNDguMzY3OCA0Ny43NTU0IDUwLjI2NDUgNDUuODczMUM1Mi4xNjEyIDQzLjk5MDggNTMuNjY2NiA0MS43NTE2IDU0LjY5MzggMzkuMjg0OEM1NS43MjExIDM2LjgxOCA1Ni4yNSAzNC4xNzIyIDU2LjI1IDMxLjVWMTUuNzVDNTYuMjUgMTUuMTUzMyA1Ni4wMTI5IDE0LjU4MSA1NS41OTEgMTQuMTU5QzU1LjE2OSAxMy43MzcxIDU0LjU5NjcgMTMuNSA1NCAxMy41SDE4QzE3LjQwMzMgMTMuNSAxNi44MzEgMTMuNzM3MSAxNi40MDkgMTQuMTU5QzE1Ljk4NzEgMTQuNTgxIDE1Ljc1IDE1LjE1MzMgMTUuNzUgMTUuNzVaIiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy4zNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yNyA2M0g0NSIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjMuMzc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMzYgNTEuNzVWNjMiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIzLjM3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTU1Ljc0ODEgMzZINTguNUM2MC44ODY5IDM2IDYzLjE3NjEgMzUuMDUxOCA2NC44NjM5IDMzLjM2NEM2Ni41NTE4IDMxLjY3NjEgNjcuNSAyOS4zODY5IDY3LjUgMjdWMjIuNUM2Ny41IDIxLjkwMzMgNjcuMjYyOSAyMS4zMzEgNjYuODQxIDIwLjkwOUM2Ni40MTkgMjAuNDg3MSA2NS44NDY3IDIwLjI1IDY1LjI1IDIwLjI1SDU2LjI1IiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy4zNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNi4zMDI0IDM2SDEzLjQ2NDNDMTEuMDc3MyAzNiA4Ljc4ODE2IDM1LjA1MTggNy4xMDAzMyAzMy4zNjRDNS40MTI1MSAzMS42NzYxIDQuNDY0MjkgMjkuMzg2OSA0LjQ2NDI5IDI3VjIyLjVDNC40NjQyOSAyMS45MDMzIDQuNzAxMzUgMjEuMzMxIDUuMTIzMyAyMC45MDlDNS41NDUyNiAyMC40ODcxIDYuMTE3NTYgMjAuMjUgNi43MTQyOSAyMC4yNUgxNS43MTQzIiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMy4zNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==" alt="líder de mercado" class="numbers-module--image--3EwKg"/><span class="numbers-module--number--2-m7Q">O Simples Dental</span><p class="numbers-module--text--_tSiG">é líder de mercado</p></div></div></div></div></div><div class="duvidas-module--container--30XU2"><div class="container"><p class="subtitle text-center scorpion-grass-blue">Entenda melhor</p><h2 class="title bahama-blue text-center">O que você precisa saber sobre o Simples Dental</h2><div class="row"><div class="col-lg-6 col-12"><div class="duvida-module--container--3AVeB"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0MiA0MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyMSIgY3k9IjIxIiByPSIyMSIgZmlsbD0iI0NFRTlGRiIvPjxwYXRoIGQ9Ik0xMS41NjAxIDE4LjcxMTVWMTIuNDE4MkMxMS41NjAxIDEyLjE5MDYgMTEuNjUwNSAxMS45NzI0IDExLjgxMTUgMTEuODExNEMxMS45NzI0IDExLjY1MDUgMTIuMTkwNyAxMS41NjAxIDEyLjQxODMgMTEuNTYwMUgyOS41ODE4QzI5LjgwOTQgMTEuNTYwMSAzMC4wMjc2IDExLjY1MDUgMzAuMTg4NiAxMS44MTE0QzMwLjM0OTUgMTEuOTcyNCAzMC40Mzk5IDEyLjE5MDYgMzAuNDM5OSAxMi40MTgyVjE4LjcxMTVDMzAuNDM5OSAyNy43MjQgMjIuNzkwOCAzMC43MDk5IDIxLjI2MzUgMzEuMjE2MkMyMS4wOTI4IDMxLjI3NSAyMC45MDczIDMxLjI3NSAyMC43MzY1IDMxLjIxNjJDMTkuMjA5MiAzMC43MDk5IDExLjU2MDEgMjcuNzI0IDExLjU2MDEgMTguNzExNVoiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIxLjcxNjM1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMjUuNzE5OSAxNy41Njc0TDE5LjQyNjYgMjMuNTc0NkwxNi4yOCAyMC41NzEiIHN0cm9rZT0iIzIxOTZGMyIgc3Ryb2tlLXdpZHRoPSIxLjcxNjM1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" alt="Seguro como o seu banco" loading="lazy"/><div><h3>Seguro como o seu banco</h3><p class="duvida-module--text--13z4H">A segurança dos seus dados é a coisa mais importante para nós. Toda informação inserida no Simples Dental é armazenada em nossos servidores, hospedados na Amazon.</p></div></div></div><div class="col-lg-6 col-12"><div class="duvida-module--container--3AVeB"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0MiA0MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyMSIgY3k9IjIxIiByPSIyMSIgZmlsbD0iI0NFRTlGRiIvPjxwYXRoIGQ9Ik0yMSAzMi4yNUMyNy4yMTMyIDMyLjI1IDMyLjI1IDI3LjIxMzIgMzIuMjUgMjFDMzIuMjUgMTQuNzg2OCAyNy4yMTMyIDkuNzUgMjEgOS43NUMxNC43ODY4IDkuNzUgOS43NSAxNC43ODY4IDkuNzUgMjFDOS43NSAyNy4yMTMyIDE0Ljc4NjggMzIuMjUgMjEgMzIuMjVaIiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMS44NzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yNS44NzI0IDIzLjgxMkMyNS4zNzgyIDI0LjY2NjggMjQuNjY3OSAyNS4zNzY1IDIzLjgxMjYgMjUuODdDMjIuOTU3NCAyNi4zNjM0IDIxLjk4NzQgMjYuNjIzMiAyMSAyNi42MjMyQzIwLjAxMjcgMjYuNjIzMiAxOS4wNDI3IDI2LjM2MzQgMTguMTg3NCAyNS44N0MxNy4zMzIyIDI1LjM3NjYgMTYuNjIxOCAyNC42NjY5IDE2LjEyNzYgMjMuODEyMSIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjEuODc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTYuNzgxMiAyMC4wNjI1QzE3LjU1NzkgMjAuMDYyNSAxOC4xODc1IDE5LjQzMjkgMTguMTg3NSAxOC42NTYyQzE4LjE4NzUgMTcuODc5NiAxNy41NTc5IDE3LjI1IDE2Ljc4MTIgMTcuMjVDMTYuMDA0NiAxNy4yNSAxNS4zNzUgMTcuODc5NiAxNS4zNzUgMTguNjU2MkMxNS4zNzUgMTkuNDMyOSAxNi4wMDQ2IDIwLjA2MjUgMTYuNzgxMiAyMC4wNjI1WiIgZmlsbD0iIzIxOTZGMyIvPjxwYXRoIGQ9Ik0yNS4yMTg4IDIwLjA2MjVDMjUuOTk1NCAyMC4wNjI1IDI2LjYyNSAxOS40MzI5IDI2LjYyNSAxOC42NTYyQzI2LjYyNSAxNy44Nzk2IDI1Ljk5NTQgMTcuMjUgMjUuMjE4OCAxNy4yNUMyNC40NDIxIDE3LjI1IDIzLjgxMjUgMTcuODc5NiAyMy44MTI1IDE4LjY1NjJDMjMuODEyNSAxOS40MzI5IDI0LjQ0MjEgMjAuMDYyNSAyNS4yMTg4IDIwLjA2MjVaIiBmaWxsPSIjMjE5NkYzIi8+PC9zdmc+" alt="Atendimento em tempo real" loading="lazy"/><div><h3>Atendimento em tempo real</h3><p class="duvida-module--text--13z4H">Converse com pessoas de verdade, tire qualquer dúvida em tempo real diretamente no chat do software ou no WhatsApp.</p></div></div></div><div class="col-lg-6 col-12"><div class="duvida-module--container--3AVeB"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0MiA0MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyMSIgY3k9IjIxIiByPSIyMSIgZmlsbD0iI0NFRTlGRiIvPjxwYXRoIGQ9Ik0xOC42NjI0IDIzLjYzOTVMMTcuNzEyMyAyNC43MTIzQzE2Ljk3ODEgMjUuNDQ2NSAxNi4wNDI2IDI1Ljk0NjYgMTUuMDI0MiAyNi4xNDkxQzE0LjAwNTggMjYuMzUxNyAxMi45NTAyIDI2LjI0NzcgMTEuOTkwOSAyNS44NTA0QzExLjAzMTYgMjUuNDUzIDEwLjIxMTcgMjQuNzgwMSA5LjYzNDc4IDIzLjkxNjdDOS4wNTc5MSAyMy4wNTM0IDguNzUgMjIuMDM4NCA4Ljc1IDIxQzguNzUgMTkuOTYxNyA5LjA1NzkxIDE4Ljk0NjYgOS42MzQ3OCAxOC4wODMzQzEwLjIxMTcgMTcuMjE5OSAxMS4wMzE2IDE2LjU0NyAxMS45OTA5IDE2LjE0OTZDMTIuOTUwMiAxNS43NTIzIDE0LjAwNTggMTUuNjQ4MyAxNS4wMjQyIDE1Ljg1MDlDMTYuMDQyNiAxNi4wNTM1IDE2Ljk3ODEgMTYuNTUzNSAxNy43MTIzIDE3LjI4NzdMMjQuMjg3NyAyNC43MTIzQzI1LjAyMTkgMjUuNDQ2NSAyNS45NTc0IDI1Ljk0NjYgMjYuOTc1OCAyNi4xNDkxQzI3Ljk5NDIgMjYuMzUxNyAyOS4wNDk4IDI2LjI0NzcgMzAuMDA5MSAyNS44NTA0QzMwLjk2ODQgMjUuNDUzIDMxLjc4ODMgMjQuNzgwMSAzMi4zNjUyIDIzLjkxNjdDMzIuOTQyMSAyMy4wNTM0IDMzLjI1IDIyLjAzODQgMzMuMjUgMjFDMzMuMjUgMTkuOTYxNyAzMi45NDIxIDE4Ljk0NjYgMzIuMzY1MiAxOC4wODMzQzMxLjc4ODMgMTcuMjE5OSAzMC45Njg0IDE2LjU0NyAzMC4wMDkxIDE2LjE0OTZDMjkuMDQ5OCAxNS43NTIzIDI3Ljk5NDIgMTUuNjQ4MyAyNi45NzU4IDE1Ljg1MDlDMjUuOTU3NCAxNi4wNTM1IDI1LjAyMTkgMTYuNTUzNSAyNC4yODc3IDE3LjI4NzdMMjMuMzM3NiAxOC4zNjA1IiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMS43NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" alt="Cadastro ilimitado de profissionais" loading="lazy"/><div><h3>Cadastro ilimitado de profissionais</h3><p class="duvida-module--text--13z4H">Cadastre quantos profissionais quiser, sem pagar nada a mais por isso.</p></div></div></div><div class="col-lg-6 col-12"><div class="duvida-module--container--3AVeB"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0MiA0MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyMSIgY3k9IjIxIiByPSIyMSIgZmlsbD0iI0NFRTlGRiIvPjxwYXRoIGQ9Ik0yOS45Mzc1IDE4LjE1NjJMMjkuOTM2NyAxMi4wNjMzTDIzLjg0MzggMTIuMDYyNSIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjEuNjI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMjIuNjIyMSAxOS4zNzc5TDI5LjkzNDYgMTIuMDY1NCIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjEuNjI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMjYuNjg3NSAyMi42MjVWMjkuMTI1QzI2LjY4NzUgMjkuMzQwNSAyNi42MDE5IDI5LjU0NzIgMjYuNDQ5NSAyOS42OTk1QzI2LjI5NzIgMjkuODUxOSAyNi4wOTA1IDI5LjkzNzUgMjUuODc1IDI5LjkzNzVIMTIuODc1QzEyLjY1OTUgMjkuOTM3NSAxMi40NTI4IDI5Ljg1MTkgMTIuMzAwNSAyOS42OTk1QzEyLjE0ODEgMjkuNTQ3MiAxMi4wNjI1IDI5LjM0MDUgMTIuMDYyNSAyOS4xMjVWMTYuMTI1QzEyLjA2MjUgMTUuOTA5NSAxMi4xNDgxIDE1LjcwMjggMTIuMzAwNSAxNS41NTA1QzEyLjQ1MjggMTUuMzk4MSAxMi42NTk1IDE1LjMxMjUgMTIuODc1IDE1LjMxMjVIMTkuMzc1IiBzdHJva2U9IiMyMTk2RjMiIHN0cm9rZS13aWR0aD0iMS42MjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==" alt="Importação de dados" loading="lazy"/><div><h3>Importação de dados</h3><p class="duvida-module--text--13z4H">Importe o cadastro dos seus pacientes de outros softwares e organize tudo no Simples Dental.</p></div></div></div></div><button class="sd-button orange">Testar por 7 dias grátis</button></div></div><div class="aplicativo-module--container--1W-8J"><div class="container"><div class="aplicativo-module--aplicativo--1Ptno row"><div class="aplicativo-module--container-img--2yhk9 col"><img class="aplicativo-module--agenda-img--3Qmkw" src="/static/app-mobile-8cc10d1af494b00ad0bfd5279a99411c.svg" alt="aplicativo simples dental" loading="lazy"/></div><div class="aplicativo-module--infos--IMQrm col"><p class="aplicativo-module--all-in-bag--h2rHk">TUDO NO SEU BOLSO</p><h2 class="aplicativo-module--title--1aiI6">Aplicativo Agenda</h2><p class="aplicativo-module--sub-title--1vOYj">Uma agenda online no seu bolso! Você marca, edita e exclui suas consultas de qualquer lugar.</p><div class="aplicativo-module--actions--2shWn row"><button class="store-button light"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzEiIHZpZXdCb3g9IjAgMCAzMSAzMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNi43NjYyIDAuNDk1Nzc0QzUuNTUzMzkgLTAuMTc0NTYzIDQuMTI5NDEgLTAuMTU5MDY0IDIuOTI0MzUgMC41MDU0NjFMMTcuMDQ3OSAxMy41MzQ0TDIxLjc5MjYgOC43ODk3NEw2Ljc2NjIgMC40OTU3NzRaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xLjUxMjAxIDEuODM4MzhDMS4xNjcxNiAyLjQwMjE2IDAuOTY5NTQzIDMuMDQ3MzEgMC45Njk1NDMgMy43MzEyMVYyNy4yNjI4QzAuOTY5NTQzIDI3LjkyNTQgMS4xNDk3MiAyOC41NTY5IDEuNDc1MiAyOS4xMDkxTDE1LjY3ODIgMTQuOTA2MUwxLjUxMjAxIDEuODM4MzhaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0yOC4wODMzIDEyLjI2MTVMMjMuNTU3NiA5Ljc2NDE2TDE4LjQ3MTkgMTQuODQ3OUwyNC43MDQ1IDIwLjU5NjFMMjguMDg1MyAxOC43MzA0QzI5LjMwMTkgMTguMDU2MiAzMC4wMzA0IDE2Ljg0NzMgMzAuMDMwNCAxNS40OTVDMzAuMDI4NSAxNC4xNDI3IDI5LjMwMTkgMTIuOTMzNyAyOC4wODMzIDEyLjI2MTVaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNy4xMDIyIDE2LjIxOTdMMi44NjA0NCAzMC40NjE1QzMuNDc4NDcgMzAuODE0MSA0LjE1NjU2IDMxLjAwMDEgNC44Mzg1MiAzMS4wMDAxQzUuNDk3MjMgMzEuMDAwMSA2LjE1OTgyIDMwLjgzMzUgNi43NjYyMiAzMC40OTgzTDIyLjkxODIgMjEuNTg0NEwxNy4xMDIyIDE2LjIxOTdaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="icon store button"/><div class="store-button-text"><small>Disponível no</small><span>Google Play</span></div></button><button class="store-button light"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAyOCAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjYuNTQ5NyAyNS4xMzEzQzI2LjA2MjggMjYuMjU4IDI1LjQ4NjUgMjcuMjk1MSAyNC44MTg4IDI4LjI0ODZDMjMuOTA4NiAyOS41NDg0IDIzLjE2MzQgMzAuNDQ4MiAyMi41ODkxIDMwLjk0NzhDMjEuNjk4OCAzMS43Njc5IDIwLjc0NDkgMzIuMTg3OSAxOS43MjM1IDMyLjIxMThDMTguOTkwMiAzMi4yMTE4IDE4LjEwNTggMzIuMDAyOCAxNy4wNzY0IDMxLjU3ODhDMTYuMDQzNyAzMS4xNTY4IDE1LjA5NDYgMzAuOTQ3OCAxNC4yMjY3IDMwLjk0NzhDMTMuMzE2NiAzMC45NDc4IDEyLjM0MDQgMzEuMTU2OCAxMS4yOTYzIDMxLjU3ODhDMTAuMjUwNiAzMi4wMDI4IDkuNDA4MjMgMzIuMjIzOCA4Ljc2NDE3IDMyLjI0NTdDNy43ODQ2NSAzMi4yODc1IDYuODA4MzIgMzEuODU1NSA1LjgzMzc3IDMwLjk0NzhDNS4yMTE3NiAzMC40MDQ0IDQuNDMzNzUgMjkuNDcyOCAzLjUwMTczIDI4LjE1M0MyLjUwMTc1IDI2Ljc0MzcgMS42Nzk2MiAyNS4xMDk0IDEuMDM1NTYgMjMuMjQ2MkMwLjM0NTc4MSAyMS4yMzM4IDAgMTkuMjg1IDAgMTcuMzk4M0MwIDE1LjIzNzEgMC40NjYyMDkgMTMuMzczMSAxLjQwMDAyIDExLjgxMTFDMi4xMzM5MSAxMC41NTY1IDMuMTEwMjQgOS41NjY3NSA0LjMzMjIgOC44NDAxOUM1LjU1NDE2IDguMTEzNjIgNi44NzQ0OSA3Ljc0MzM3IDguMjk2MzcgNy43MTk2OUM5LjA3NDM4IDcuNzE5NjkgMTAuMDk0NiA3Ljk2MDc1IDExLjM2MjUgOC40MzQ1MUMxMi42MjY4IDguOTA5ODYgMTMuNDM4NiA5LjE1MDkyIDEzLjc5NDUgOS4xNTA5MkMxNC4wNjA2IDkuMTUwOTIgMTQuOTYyNCA4Ljg2OTA1IDE2LjQ5MTIgOC4zMDcxMUMxNy45MzY5IDcuNzg1OTcgMTkuMTU3MSA3LjU3MDE5IDIwLjE1NjcgNy42NTUxOUMyMi44NjUzIDcuODc0MTYgMjQuOTAwMiA4Ljk0MzcgMjYuMjUzNiAxMC44NzA2QzIzLjgzMTEgMTIuMzQwOCAyMi42MzI4IDE0LjQwMDEgMjIuNjU2NiAxNy4wNDE4QzIyLjY3ODUgMTkuMDk5NSAyMy40MjM3IDIwLjgxMTggMjQuODg4MyAyMi4xNzEzQzI1LjU1MjEgMjIuODAyMyAyNi4yOTMzIDIzLjI5IDI3LjExOCAyMy42MzY0QzI2LjkzOTIgMjQuMTU1OSAyNi43NTA0IDI0LjY1MzYgMjYuNTQ5NyAyNS4xMzEzWk0yMC4zMzc1IDAuNjQ1MTUyQzIwLjMzNzUgMi4yNTc5NCAxOS43NDkzIDMuNzYzOCAxOC41NzY4IDUuMTU3NjFDMTcuMTYxOSA2LjgxNDU3IDE1LjQ1MDUgNy43NzIwNCAxMy41OTQ2IDcuNjIwOTVDMTMuNTcwOSA3LjQyNzQ3IDEzLjU1NzIgNy4yMjM4MyAxMy41NTcyIDcuMDA5ODRDMTMuNTU3MiA1LjQ2MTU3IDE0LjIzMDEgMy44MDQ2MSAxNS40MjUgMi40NDk4MUMxNi4wMjE2IDEuNzYzODYgMTYuNzgwMyAxLjE5MzUgMTcuNzAwNCAwLjczODUxQzE4LjYxODUgMC4yOTAzMSAxOS40ODcgMC4wNDI0NDU3IDIwLjMwMzcgMEMyMC4zMjc2IDAuMjE1NjA1IDIwLjMzNzUgMC40MzEyMjMgMjAuMzM3NSAwLjY0NTEzMVYwLjY0NTE1MloiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="icon store button"/><div class="store-button-text"><small>Disponível no</small><span>App Store</span></div></button></div></div></div></div></div><div class="footer-module--container--99WzW"><div class="container"><div class="join-module--container--2SRFH"><h2 class="join-module--text---XMoO">Junte-se a mais de 45 mil dentistas por toda a América Latina.</h2><button class="sd-button orange">Testar por 7 dias grátis</button></div><div class="footer-module--logo-container--3qFQV"><div class="footer-module--logo--MBg_e"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkxIiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMTkxIDM4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy4yNyAwQzIyLjE5NCAwIDIwLjcyNjMgMC41OTI5MzYgMTkuMzEzIDAuOTMzOTVDMTcuOTAwOSAxLjI3MzEyIDE1LjkzMTEgMS40Njk3NCAxNC4zNTEgMS40NTYyM0MxNy45MjU2IDMuMzMyNzMgMjAuMjYwNiA1Ljc2NzE0IDIwLjI2MDYgNS43NjcxNEMxNi44ODE3IDMuNjc2ODIgOC45MTUyNyAwIDUuNDk0NDUgMEMyLjg3Nzg4IDAgMC4wMDQ5NTc4NCAyLjE0ODA5IDEuNjI0NzllLTA1IDUuNTQ4NEMtMC4wMDY3Nzg0NCAxMC4xNzUxIDIuMTE5MzQgMTUuNjkyOCAyLjk1Mzg1IDE5LjI2MDlDNC41Mjk2IDI1Ljk5ODIgNC4wODc5NSAzNi44MjI4IDguMDkwNjQgMzYuODIyOEMxMi40MDQgMzYuODIyOCAxMS4zMDUxIDIyLjIyNDkgMTQuNDA5NyAyMi4yMjQ5QzE3LjUxMzYgMjIuMjI0OSAxNi41NTE5IDM3LjQ4MDkgMjAuNDUzOSAzNy40ODA5QzI0LjM1NTkgMzcuNDgwOSAyNS45MTI1IDE4Ljg4NzkgMjYuODIxMSAxNS45NjMyQzI3LjczMSAxMy4wMzc4IDI4Ljc2NDQgNy4yNTU5MyAyOC43NjQ0IDUuNTQ3NzlDMjguNzY0NCAyLjg3ODA0IDI2LjY5MDIgMCAyMy4yNyAwWiIgZmlsbD0iI0ZERkRGRCIvPjxwYXRoIGQ9Ik0zNy41MTI0IDI3LjI0MTZWMjUuNzk4N0MzOC44MjMzIDI2LjYzMjkgNDAuMTUxMiAyNy4wNSA0MS40OTYxIDI3LjA1QzQyLjkyNjEgMjcuMDUgNDQuMDExNSAyNi43NTY0IDQ0Ljc1MiAyNi4xNjlDNDUuNDkyNiAyNS41NzMyIDQ1Ljg2MjkgMjQuNzQzMiA0NS44NjI5IDIzLjY3OTJDNDUuODYyOSAyMi43NDI5IDQ1LjYxMTcgMjEuOTk4IDQ1LjEwOTUgMjEuNDQ0OEM0NC42MTU4IDIwLjg4MyA0My41MzkgMjAuMTIxMSA0MS44NzkxIDE5LjE1OTJDNDAuMDIzNSAxOC4wNzgyIDM4Ljg0ODggMTcuMTc1OSAzOC4zNTUxIDE2LjQ1MjRDMzcuODYxNCAxNS43MjAzIDM3LjYxNDUgMTQuODc3NiAzNy42MTQ1IDEzLjkyNDJDMzcuNjE0NSAxMi42MzA0IDM4LjExNjggMTEuNTMyMyAzOS4xMjEyIDEwLjYzQzQwLjEyNTYgOS43Mjc3MiA0MS40NjYzIDkuMjc2NTcgNDMuMTQzMiA5LjI3NjU3QzQ0LjIzMjggOS4yNzY1NyA0NS4zMjIzIDkuNDU5NTggNDYuNDExOSA5LjgyNTYxVjExLjE1MzVDNDUuMzM5NCAxMC42NjgzIDQ0LjE5NDUgMTAuNDI1NyA0Mi45NzcyIDEwLjQyNTdDNDEuNzM0NCAxMC40MjU3IDQwLjc0NyAxMC43NDA3IDQwLjAxNSAxMS4zNzA2QzM5LjI5MTQgMTIuMDAwNSAzOC45Mjk3IDEyLjgwMDYgMzguOTI5NyAxMy43NzFDMzguOTI5NyAxNC43MDc0IDM5LjE3NjUgMTUuNDUyMiAzOS42NzAyIDE2LjAwNTVDNDAuMTcyNSAxNi41NTg4IDQxLjI0OTIgMTcuMzEyMSA0Mi45MDA2IDE4LjI2NTVDNDQuNjExNiAxOS4yMzU4IDQ1Ljc0NzkgMjAuMDk5OCA0Ni4zMDk3IDIwLjg1NzRDNDYuODgwMSAyMS42MDY1IDQ3LjE2NTIgMjIuNDcwNSA0Ny4xNjUyIDIzLjQ0OTRDNDcuMTY1MiAyNC44NTM5IDQ2LjY3NTggMjUuOTk4OCA0NS42OTY5IDI2Ljg4NDFDNDQuNzI2NSAyNy43NjkzIDQzLjM1MTggMjguMjEyIDQxLjU3MjcgMjguMjEyQzQwLjk0MjggMjguMjEyIDQwLjIxNSAyOC4xMTQxIDM5LjM4OTMgMjcuOTE4M0MzOC41NzIyIDI3LjcyMjUgMzcuOTQ2NSAyNy40OTY5IDM3LjUxMjQgMjcuMjQxNloiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTUxLjAxMjEgMTEuNTIzOEM1MC43NTY3IDExLjUyMzggNTAuNTMxMSAxMS40MzAyIDUwLjMzNTMgMTEuMjQyOUM1MC4xMzk2IDExLjA1NTYgNTAuMDQxNyAxMC44MTczIDUwLjA0MTcgMTAuNTI3OUM1MC4wNDE3IDEwLjI0NyA1MC4xMzk2IDEwLjAyMTQgNTAuMzM1MyA5Ljg1MTE1QzUwLjUzOTYgOS42NzIzOSA1MC43NjUyIDkuNTgzMDEgNTEuMDEyMSA5LjU4MzAxQzUxLjI3NTkgOS41ODMwMSA1MS41MDU4IDkuNjY4MTMgNTEuNzAxNSA5LjgzODM4QzUxLjkwNTggMTAuMDA4NiA1Mi4wMDggMTAuMjM4NSA1Mi4wMDggMTAuNTI3OUM1Mi4wMDggMTAuODAwMyA1MS45MTAxIDExLjAzNDMgNTEuNzE0MyAxMS4yMzAxQzUxLjUxODUgMTEuNDI1OSA1MS4yODQ0IDExLjUyMzggNTEuMDEyMSAxMS41MjM4Wk01MC40Mzc1IDI3Ljg5MjdWMTQuODE4SDUxLjYxMjJWMjcuODkyN0g1MC40Mzc1WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNzEuODAyNCAyNy44OTI3VjIwLjAyNzVDNzEuODAyNCAxOC4zODQ2IDcxLjU0MjggMTcuMjMxMiA3MS4wMjM1IDE2LjU2NzNDNzAuNTEyOCAxNS45MDMzIDY5LjY5OTkgMTUuNTcxMyA2OC41ODQ4IDE1LjU3MTNDNjcuNTU0OCAxNS41NzEzIDY2LjY2NTMgMTYuMDE0IDY1LjkxNjIgMTYuODk5MkM2NS4xNjcyIDE3Ljc4NDUgNjQuNzkyNiAxOC44OTU0IDY0Ljc5MjYgMjAuMjMxOFYyNy44OTI3SDYzLjYxNzlWMTkuOTM4MUM2My42MTc5IDE3LjAyNjkgNjIuNTExMyAxNS41NzEzIDYwLjI5ODIgMTUuNTcxM0M1OS4yMzQyIDE1LjU3MTMgNTguMzQ4OSAxNi4wMTgyIDU3LjY0MjQgMTYuOTEyQzU2LjkzNTkgMTcuNzk3MyA1Ni41ODI2IDE4Ljk0NjQgNTYuNTgyNiAyMC4zNTk1VjI3Ljg5MjdINTUuNDA3OVYxNC44MThINTYuNTgyNlYxNi45ODg2SDU2LjYzMzdDNTcuNTQ0NSAxNS4zMjg3IDU4Ljg3NjYgMTQuNDk4OCA2MC42MzAyIDE0LjQ5ODhDNjEuNTgzNSAxNC40OTg4IDYyLjM5NjQgMTQuNzc1NSA2My4wNjg5IDE1LjMyODdDNjMuNzQ5OSAxNS44NzM1IDY0LjIwOTUgMTYuNTkyOCA2NC40NDc5IDE3LjQ4NjZDNjQuODU2NSAxNi41NDE3IDY1LjQzOTUgMTUuODA5NyA2Ni4xOTcxIDE1LjI5MDRDNjYuOTYzMiAxNC43NjI3IDY3Ljc5MzIgMTQuNDk4OCA2OC42ODY5IDE0LjQ5ODhDNzEuNTQ3IDE0LjQ5ODggNzIuOTc3MSAxNi4yNjkzIDcyLjk3NzEgMTkuODEwNFYyNy44OTI3SDcxLjgwMjRaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik03Ny43NDMyIDI1LjU2ODlINzcuNjkyMlYzMy45MDY2SDc2LjUxNzVWMTQuODE4SDc3LjY5MjJWMTcuNTEyMUg3Ny43NDMyQzc4LjIxMTQgMTYuNTUwMiA3OC44Nzk2IDE1LjgwOTcgNzkuNzQ3OSAxNS4yOTA0QzgwLjYyNDYgMTQuNzYyNyA4MS41ODY1IDE0LjQ5ODggODIuNjMzNSAxNC40OTg4Qzg0LjI5MzQgMTQuNDk4OCA4NS41ODcyIDE1LjA3MzQgODYuNTE1MSAxNi4yMjI1Qzg3LjQ1MTQgMTcuMzYzMiA4Ny45MTk2IDE4LjkxNjYgODcuOTE5NiAyMC44ODNDODcuOTE5NiAyMy4wNzA2IDg3LjM4MzMgMjQuODQxMSA4Ni4zMTA4IDI2LjE5NDZDODUuMjQ2NyAyNy41Mzk1IDgzLjgzOCAyOC4yMTIgODIuMDg0NSAyOC4yMTJDODAuMTI2NyAyOC4yMTIgNzguNjc5NiAyNy4zMzA5IDc3Ljc0MzIgMjUuNTY4OVpNNzcuNjkyMiAyMC43MDQyVjIyLjM1MTNDNzcuNjkyMiAyMy42NjIyIDc4LjEwNSAyNC43OTAxIDc4LjkzMDcgMjUuNzM0OUM3OS43NTY0IDI2LjY3MTIgODAuODQxNyAyNy4xMzk0IDgyLjE4NjYgMjcuMTM5NEM4My41MjMgMjcuMTM5NCA4NC42MDgzIDI2LjU2OTEgODUuNDQyNSAyNS40Mjg1Qzg2LjI3NjcgMjQuMjc5MyA4Ni42OTM4IDIyLjc3MjcgODYuNjkzOCAyMC45MDg1Qzg2LjY5MzggMTkuMjc0MSA4Ni4zMTA4IDE3Ljk3NiA4NS41NDQ3IDE3LjAxNDJDODQuNzc4NiAxNi4wNTIzIDgzLjc1NzEgMTUuNTcxMyA4Mi40ODAzIDE1LjU3MTNDODAuOTU2NiAxNS41NzEzIDc5Ljc3NzcgMTYuMDgyMSA3OC45NDM1IDE3LjEwMzVDNzguMTA5MyAxOC4xMjUgNzcuNjkyMiAxOS4zMjUyIDc3LjY5MjIgMjAuNzA0MloiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTkwLjc4MzIgMjcuODkyN1Y4LjUzNjAxSDkxLjk1NzlWMjcuODkyN0g5MC43ODMyWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNOTYuMDM0NiAyMS40MDY1Qzk2LjAzNDYgMjMuMjAyNSA5Ni40NDc0IDI0LjYwNyA5Ny4yNzMxIDI1LjYyQzk4LjEwNzMgMjYuNjMyOSA5OS4yNDc5IDI3LjEzOTQgMTAwLjY5NSAyNy4xMzk0QzEwMi4xNTkgMjcuMTM5NCAxMDMuNTg5IDI2LjU5ODkgMTA0Ljk4NSAyNS41MTc4VjI2Ljc2OTFDMTAzLjYzMiAyNy43MzEgMTAyLjEyMSAyOC4yMTIgMTAwLjQ1MiAyOC4yMTJDOTguNzY3IDI4LjIxMiA5Ny40MDUxIDI3LjYwNzYgOTYuMzY2NiAyNi4zOTg5Qzk1LjMyODEgMjUuMTkwMSA5NC44MDg4IDIzLjQ4MzQgOTQuODA4OCAyMS4yNzg4Qzk0LjgwODggMTkuMzcyIDk1LjM0OTQgMTcuNzY3NSA5Ni40MzA0IDE2LjQ2NTFDOTcuNTIgMTUuMTU0MiA5OC45MzMgMTQuNDk4OCAxMDAuNjY5IDE0LjQ5ODhDMTAyLjI5NSAxNC40OTg4IDEwMy41NDIgMTUuMDY5MSAxMDQuNDExIDE2LjIwOThDMTA1LjI3OSAxNy4zNTA0IDEwNS43MTMgMTguOTA4MSAxMDUuNzEzIDIwLjg4M1YyMS40MDY1SDk2LjAzNDZaTTEwNC40ODcgMjAuMzMzOUMxMDQuNDM2IDE4LjgyNzMgMTA0LjA3NCAxNy42NTY4IDEwMy40MDIgMTYuODIyNkMxMDIuNzI5IDE1Ljk4ODQgMTAxLjgwMiAxNS41NzEzIDEwMC42MTggMTUuNTcxM0M5OS4zOTI3IDE1LjU3MTMgOTguMzc1NCAxNS45ODQyIDk3LjU2NjggMTYuODA5OUM5Ni43NjY2IDE3LjYyNyA5Ni4yNzI5IDE4LjgwMTcgOTYuMDg1NyAyMC4zMzM5SDEwNC40ODdaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMDcuODg3IDI3LjMxODJWMjUuOTAwOUMxMDguMzMgMjYuMjgzOSAxMDguODY2IDI2LjU4NjEgMTA5LjQ5NiAyNi44MDc0QzExMC4xMjYgMjcuMDI4OCAxMTAuNjcxIDI3LjEzOTQgMTExLjEzIDI3LjEzOTRDMTEzLjE4MiAyNy4xMzk0IDExNC4yMDcgMjYuMzAxIDExNC4yMDcgMjQuNjI0MUMxMTQuMjA3IDI0LjA0NTIgMTEzLjk4MiAyMy41NTE1IDExMy41MzEgMjMuMTQyOUMxMTMuMDggMjIuNzM0NCAxMTIuMzQ4IDIyLjMxMyAxMTEuMzM1IDIxLjg3ODlDMTEwLjA4MyAyMS4zMzQxIDEwOS4yMDIgMjAuNzcyMyAxMDguNjkyIDIwLjE5MzVDMTA4LjE4OSAxOS42MDYxIDEwNy45MzggMTguODk1NCAxMDcuOTM4IDE4LjA2MTJDMTA3LjkzOCAxNi45OTcxIDEwOC4zNDMgMTYuMTM3NCAxMDkuMTUxIDE1LjQ4MkMxMDkuOTY4IDE0LjgyNjUgMTEwLjk3MyAxNC40OTg4IDExMi4xNjUgMTQuNDk4OEMxMTMuMjg4IDE0LjQ5ODggMTE0LjI1IDE0LjcyODYgMTE1LjA1IDE1LjE4ODNWMTYuNTE2MkMxMTQuMDggMTUuODg2MyAxMTMuMDc1IDE1LjU3MTMgMTEyLjAzNyAxNS41NzEzQzExMS4xNzcgMTUuNTcxMyAxMTAuNDgzIDE1Ljc5NjkgMTA5Ljk1NiAxNi4yNDgxQzEwOS40MjggMTYuNjkwNyAxMDkuMTY0IDE3LjI2OTUgMTA5LjE2NCAxNy45ODQ1QzEwOS4xNjQgMTguNjA1OSAxMDkuMzMgMTkuMTEyNCAxMDkuNjYyIDE5LjUwNEMxMDkuOTk0IDE5Ljg4NyAxMTAuNzI2IDIwLjMyOTcgMTExLjg1OCAyMC44MzE5QzExMy4yMiAyMS40NDQ4IDExNC4xNTYgMjIuMDE1MSAxMTQuNjY3IDIyLjU0MjhDMTE1LjE3OCAyMy4wNjIxIDExNS40MzMgMjMuNzU1OCAxMTUuNDMzIDI0LjYyNDFDMTE1LjQzMyAyNS42NjI2IDExNS4wNDIgMjYuNTIyMyAxMTQuMjU5IDI3LjIwMzNDMTEzLjQ4NCAyNy44NzU3IDExMi40MTEgMjguMjEyIDExMS4wNDEgMjguMjEyQzEwOS43ODEgMjguMjEyIDEwOC43MyAyNy45MTQgMTA3Ljg4NyAyNy4zMTgyWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTE4LjUwMSAyNy44OTI3VjkuNTgzMDFIMTIzLjc4N0MxMzAuNTM3IDkuNTgzMDEgMTMzLjkxMiAxMi41NTggMTMzLjkxMiAxOC41MDhDMTMzLjkxMiAyMS4zMzQxIDEzMi45NzYgMjMuNjA2OSAxMzEuMTAzIDI1LjMyNjNDMTI5LjIzMSAyNy4wMzczIDEyNi43MiAyNy44OTI3IDEyMy41NyAyNy44OTI3SDExOC41MDFaTTEyMS41MjcgMTIuMTYyMlYyNS4zMjYzSDEyMy45NTNDMTI2LjA5IDI1LjMyNjMgMTI3Ljc1IDI0LjczOSAxMjguOTMzIDIzLjU2NDNDMTMwLjEyNSAyMi4zODk2IDEzMC43MiAyMC43Mjk3IDEzMC43MiAxOC41ODQ3QzEzMC43MiAxNC4zMDMgMTI4LjUwMyAxMi4xNjIyIDEyNC4wNjggMTIuMTYyMkgxMjEuNTI3WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTQ3LjYxNiAyMi4xNTk4SDEzOC43MDRDMTM4LjczOCAyMy4zNjg1IDEzOS4xMDkgMjQuMzAwNiAxMzkuODE1IDI0Ljk1NkMxNDAuNTMgMjUuNjExNSAxNDEuNTA5IDI1LjkzOTIgMTQyLjc1MiAyNS45MzkyQzE0NC4xNDggMjUuOTM5MiAxNDUuNDI5IDI1LjUyMjEgMTQ2LjU5NSAyNC42ODc5VjI3LjA3NTZDMTQ1LjQwMyAyNy44MjQ2IDE0My44MjkgMjguMTk5MiAxNDEuODcxIDI4LjE5OTJDMTM5Ljk0NyAyOC4xOTkyIDEzOC40MzYgMjcuNjA3NiAxMzcuMzM4IDI2LjQyNDRDMTM2LjI0OCAyNS4yMzI3IDEzNS43MDQgMjMuNTYgMTM1LjcwNCAyMS40MDY1QzEzNS43MDQgMTkuMzcyIDEzNi4zMDQgMTcuNzE2NCAxMzcuNTA0IDE2LjQzOTZDMTM4LjcxMyAxNS4xNTQyIDE0MC4yMTEgMTQuNTExNiAxNDEuOTk4IDE0LjUxMTZDMTQzLjc4NiAxNC41MTE2IDE0NS4xNjkgMTUuMDg2MSAxNDYuMTQ4IDE2LjIzNTNDMTQ3LjEyNyAxNy4zODQ0IDE0Ny42MTYgMTguOTgwNSAxNDcuNjE2IDIxLjAyMzRWMjIuMTU5OFpNMTQ0Ljc1NiAyMC4wNjU4QzE0NC43NDggMTkuMDAxOCAxNDQuNDk3IDE4LjE3NjEgMTQ0LjAwMyAxNy41ODg3QzE0My41MDkgMTYuOTkyOSAxNDIuODI4IDE2LjY5NSAxNDEuOTYgMTYuNjk1QzE0MS4xMDkgMTYuNjk1IDE0MC4zODUgMTcuMDA1NiAxMzkuNzg5IDE3LjYyN0MxMzkuMjAyIDE4LjI0ODQgMTM4Ljg0IDE5LjA2MTMgMTM4LjcwNCAyMC4wNjU4SDE0NC43NTZaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNjEuNjkxIDI3Ljg5MjdIMTU4LjcyOFYyMC41MjU0QzE1OC43MjggMTguMDgyNCAxNTcuODY0IDE2Ljg2MDkgMTU2LjEzNiAxNi44NjA5QzE1NS4yMzQgMTYuODYwOSAxNTQuNDg5IDE3LjIwMTQgMTUzLjkwMiAxNy44ODI0QzE1My4zMTUgMTguNTU0OSAxNTMuMDIxIDE5LjQwNjEgMTUzLjAyMSAyMC40MzYxVjI3Ljg5MjdIMTUwLjA0NlYxNC44MThIMTUzLjAyMVYxNi45ODg2SDE1My4wNzJDMTU0LjA1MSAxNS4zMzczIDE1NS40NjQgMTQuNTExNiAxNTcuMzExIDE0LjUxMTZDMTU4LjczMyAxNC41MTE2IDE1OS44MTggMTQuOTc1NSAxNjAuNTY3IDE1LjkwMzNDMTYxLjMxNiAxNi44MjI2IDE2MS42OTEgMTguMTU0OCAxNjEuNjkxIDE5Ljg5OThWMjcuODkyN1oiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTE3MS44MiAyNy43NTIzQzE3MS4yNDEgMjguMDQxNyAxNzAuNDc5IDI4LjE4NjQgMTY5LjUzNCAyOC4xODY0QzE2Ni45OTcgMjguMTg2NCAxNjUuNzI5IDI2Ljk2OTIgMTY1LjcyOSAyNC41MzQ3VjE3LjE0MThIMTYzLjU0NlYxNC44MThIMTY1LjcyOVYxMS43OTE5TDE2OC42OTEgMTAuOTQ5MlYxNC44MThIMTcxLjgyVjE3LjE0MThIMTY4LjY5MVYyMy42NzkyQzE2OC42OTEgMjQuNDUzOCAxNjguODMyIDI1LjAwNzEgMTY5LjExMyAyNS4zMzkxQzE2OS4zOTQgMjUuNjcxMSAxNjkuODYyIDI1LjgzNzEgMTcwLjUxNyAyNS44MzcxQzE3MS4wMTkgMjUuODM3MSAxNzEuNDU0IDI1LjY5MjMgMTcxLjgyIDI1LjQwMjlWMjcuNzUyM1oiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTE4NC4wMTcgMjcuODkyN0gxODEuMTQ0VjI1Ljg0OThIMTgxLjA5M0MxODAuMTkxIDI3LjQxNjEgMTc4Ljg2NyAyOC4xOTkyIDE3Ny4xMjIgMjguMTk5MkMxNzUuODM3IDI4LjE5OTIgMTc0LjgyOCAyNy44NTAyIDE3NC4wOTYgMjcuMTUyMkMxNzMuMzcyIDI2LjQ1NDIgMTczLjAxMSAyNS41MzA2IDE3My4wMTEgMjQuMzgxNUMxNzMuMDExIDIxLjkxMjkgMTc0LjQzMiAyMC40NzQ0IDE3Ny4yNzUgMjAuMDY1OEwxODEuMTU3IDE5LjUxNjdDMTgxLjE1NyAxNy42NTI2IDE4MC4yNzEgMTYuNzIwNSAxNzguNTAxIDE2LjcyMDVDMTc2Ljk0MyAxNi43MjA1IDE3NS41MzkgMTcuMjU2OCAxNzQuMjg3IDE4LjMyOTNWMTUuNzM3M0MxNzUuNjY2IDE0LjkyMDIgMTc3LjI1OCAxNC41MTE2IDE3OS4wNjMgMTQuNTExNkMxODIuMzY1IDE0LjUxMTYgMTg0LjAxNyAxNi4xMzc0IDE4NC4wMTcgMTkuMzg5MVYyNy44OTI3Wk0xODEuMTU3IDIxLjQ3MDNMMTc4LjQxMiAyMS44NTMzQzE3Ny41NiAyMS45NjQgMTc2LjkxOCAyMi4xNzI2IDE3Ni40ODQgMjIuNDc5QzE3Ni4wNTggMjIuNzc2OSAxNzUuODQ1IDIzLjMwNDcgMTc1Ljg0NSAyNC4wNjIzQzE3NS44NDUgMjQuNjE1NiAxNzYuMDQxIDI1LjA3MSAxNzYuNDMyIDI1LjQyODVDMTc2LjgzMyAyNS43Nzc1IDE3Ny4zNjUgMjUuOTUyIDE3OC4wMjggMjUuOTUyQzE3OC45MzEgMjUuOTUyIDE3OS42NzYgMjUuNjM3IDE4MC4yNjMgMjUuMDA3MUMxODAuODU5IDI0LjM2ODcgMTgxLjE1NyAyMy41Njg2IDE4MS4xNTcgMjIuNjA2N1YyMS40NzAzWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTkwLjIyNiAyNy44OTI3SDE4Ny4yNTFWOC41MzYwMUgxOTAuMjI2VjI3Ljg5MjdaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Simples Dental" loading="lazy"/></div><div class="partners-module--container--gGrxL"><h3>Nossos parceiros</h3><div class="partners-module--images--EIeF0"><a href="https://www.dentalcremer.com.br/" class="partners-module--partner-logo--2IVPC" target="_blank" rel="noreferrer"><img src="/static/dental-cremer-c87f1bc15b57430da399d6a5efea5618.svg" alt="Dental Cremer" loading="lazy"/></a><a href="https://www.dentalspeed.com/" class="partners-module--partner-logo--2IVPC" target="_blank" rel="noreferrer"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTA4IiBoZWlnaHQ9IjIwNCIgdmlld0JveD0iMCAwIDUwOCAyMDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQ4OS4xOTkgMTY3LjczMkM0ODYuODQ4IDE2OC4zMiA0ODMuOTA5IDE2OC4zMiA0NzkuNzk0IDE2OC4zMkM0NzEuNTYzIDE2OC4zMiA0NjkuOCAxNjIuNDM4IDQ2OS44IDE1NC4yMDNWMTQ1LjM4QzQ2OS44IDEzNy4xNDUgNDcxLjU2MyAxMzEuMjYzIDQ3OS43OTQgMTMxLjI2M0M0ODIuNzMzIDEzMS4yNjMgNDg2LjI2IDEzMS4yNjMgNDg5LjE5OSAxMzEuODUxVjE2Ny43MzJaTTUwNy40MjQgMTc3LjE0M1YxMDQuNzkzQzUwNy40MjQgMTAzLjYxNyA1MDYuMjQ4IDEwMi40NCA1MDUuMDcyIDEwMi40NEg0OTEuNTUxQzQ5MC4zNzUgMTAyLjQ0IDQ4OS4xOTkgMTAzLjYxNyA0ODkuMTk5IDEwNC43OTNWMTE3LjE0NkM0ODUuNjcyIDExNi41NTggNDgyLjE0NSAxMTYuNTU4IDQ3OS43OTQgMTE2LjU1OEM0NjAuMzk0IDExNi41NTggNDUxLjU3NiAxMjcuNzM0IDQ1MS41NzYgMTQ1Ljk2OFYxNTQuNzkxQzQ1MS41NzYgMTczLjAyNiA0NjEuNTcgMTg0LjIwMiA0NzkuNzk0IDE4NC4yMDJDNDg4LjYxMiAxODQuMjAyIDQ5Ny40MyAxODMuMDI1IDUwMy44OTYgMTgxLjI2MUM1MDYuODM2IDE4MC4wODQgNTA3LjQyNCAxNzguOTA4IDUwNy40MjQgMTc3LjE0M1pNNDI3LjQ3MyAxNDQuMjAzSDQwNi44OTdWMTQzLjYxNUM0MDYuODk3IDEzNS4zOCA0MTEuMDEzIDEzMC42NzUgNDE2Ljg5MSAxMzAuNjc1QzQyMy45NDYgMTMxLjI2MyA0MjcuNDczIDEzNS4zOCA0MjcuNDczIDE0NC4yMDNaTTQ0NS4xMDkgMTUzLjAyN1YxNDYuNTU2QzQ0NS4xMDkgMTI5LjQ5OCA0MzUuNzAzIDExNi41NTggNDE3LjQ3OSAxMTYuNTU4QzM5OS44NDMgMTE2LjU1OCAzODkuMjYxIDEyOC4zMjIgMzg5LjI2MSAxNDYuNTU2VjE1NC43OTFDMzg5LjI2MSAxNzYuNTU1IDQwMy45NTggMTg0LjIwMiA0MTcuNDc5IDE4NC4yMDJDNDI3LjQ3MyAxODQuMjAyIDQzMy4zNTIgMTgzLjAyNSA0NDAuNDA2IDE4MS4yNjFDNDQyLjE3IDE4MC42NzMgNDQyLjc1OCAxODAuMDg0IDQ0Mi43NTggMTc4LjMyVjE2OS40OTdDNDQyLjc1OCAxNjguMzIgNDQxLjU4MiAxNjcuNzMyIDQ0MC40MDYgMTY3LjczMkg0MzkuODE4QzQzNS4xMTUgMTY4LjMyIDQyNS43MDkgMTY4LjkwOCA0MTguNjU1IDE2OC45MDhDNDA5LjgzNyAxNjguOTA4IDQwNi44OTcgMTYzLjAyNiA0MDYuODk3IDE1Ni41NTZINDQyLjc1OEM0NDQuNTIxIDE1NS4zOCA0NDUuMTA5IDE1NC43OTEgNDQ1LjEwOSAxNTMuMDI3Wk0zMDMuNDMyIDE1NC4yMDNDMzAzLjQzMiAxNjIuNDM4IDMwMS42NjkgMTY4LjMyIDI5My40MzggMTY4LjMyQzI5MC40OTkgMTY4LjMyIDI4Ni45NzIgMTY3LjczMiAyODQuMDMyIDE2Ny43MzJWMTMyLjQzOUMyODYuMzg0IDEzMS44NTEgMjg5LjMyMyAxMzEuODUxIDI5My40MzggMTMxLjg1MUMzMDEuNjY5IDEzMS44NTEgMzAzLjQzMiAxMzcuNzMzIDMwMy40MzIgMTQ1Ljk2OFYxNTQuMjAzWk0zMjEuNjU2IDE1NC4yMDNWMTQ1LjM4QzMyMS42NTYgMTI3LjE0NSAzMTEuNjYyIDExNS45NjkgMjkzLjQzOCAxMTUuOTY5QzI4NC42MiAxMTUuOTY5IDI3NS44MDIgMTE3LjE0NiAyNjkuMzM2IDExOC45MUMyNjYuMzk2IDExOS40OTkgMjY1LjgwOCAxMjAuNjc1IDI2NS44MDggMTIyLjQ0VjE5OC45MDdDMjY1LjgwOCAyMDAuMDg0IDI2Ni45ODQgMjAxLjI2IDI2OC4xNiAyMDEuMjZIMjgxLjY4MUMyODIuODU3IDIwMS4yNiAyODQuMDMyIDIwMC4wODQgMjg0LjAzMiAxOTguOTA3VjE4Mi40MzdDMjg3LjU2IDE4My4wMjUgMjkxLjA4NyAxODMuMDI1IDI5My40MzggMTgzLjAyNUMzMTIuMjUgMTgzLjYxNCAzMjEuNjU2IDE3Mi40MzggMzIxLjY1NiAxNTQuMjAzWk0yNTguMTY2IDE2NC4yMDNDMjU4LjE2NiAxNTguMzIxIDI1NS44MTUgMTUyLjQzOCAyNDYuOTk2IDE0Ni41NTZMMjM1LjIzOSAxMzguMzIxQzIzMi44ODggMTM3LjE0NSAyMzEuNzEyIDEzNS45NjkgMjMxLjcxMiAxMzQuMjA0QzIzMS43MTIgMTMxLjg1MSAyMzMuNDc1IDEzMC42NzUgMjM3LjU5MSAxMzAuNjc1QzI0My40NjkgMTMwLjY3NSAyNTIuODc1IDEzMS44NTEgMjU1LjgxNSAxMzIuNDM5SDI1Ni40MDJDMjU3LjU3OCAxMzIuNDM5IDI1OC4xNjYgMTMxLjg1MSAyNTguMTY2IDEzMC4wODZWMTIwLjY3NUMyNTguMTY2IDExOS40OTkgMjU3LjU3OCAxMTguMzIyIDI1NS44MTUgMTE4LjMyMkMyNDkuOTM2IDExNi41NTggMjQ1LjIzMyAxMTUuOTY5IDIzNi40MTUgMTE1Ljk2OUMyMjEuMTMgMTE1Ljk2OSAyMTQuMDc2IDEyMS44NTEgMjE0LjA3NiAxMzMuNjE2QzIxNC4wNzYgMTQxLjI2MiAyMTguMTkxIDE0Ni41NTYgMjI0LjA2OSAxNTAuNjc0TDIzNi40MTUgMTU5LjQ5N0MyMzkuMzU0IDE2MS4yNjIgMjQwLjUzIDE2Mi40MzggMjQwLjUzIDE2NC4yMDNDMjQwLjUzIDE2Ny4xNDQgMjM5LjM1NCAxNjguOTA4IDIzNC4wNjMgMTY4LjkwOEMyMzAuNTM2IDE2OC45MDggMjIyLjg5NCAxNjguMzIgMjE3LjAxNSAxNjcuMTQ0SDIxNi40MjdDMjE1LjI1MSAxNjcuMTQ0IDIxNC4wNzYgMTY4LjMyIDIxNC4wNzYgMTY5LjQ5N1YxNzguOTA4QzIxNC4wNzYgMTgwLjA4NCAyMTQuNjY0IDE4MS4yNjEgMjE2LjQyNyAxODEuMjYxQzIyMi4zMDYgMTgzLjAyNSAyMjguNzcyIDE4My42MTQgMjM0LjY1MSAxODMuNjE0QzI1MS4xMTIgMTgzLjYxNCAyNTguMTY2IDE3NS4zNzkgMjU4LjE2NiAxNjQuMjAzWk0zNjYuMzM0IDE0NC4yMDNIMzQ1Ljc1OVYxNDMuNjE1QzM0NS43NTkgMTM1LjM4IDM0OS44NzQgMTMwLjY3NSAzNTUuNzUzIDEzMC42NzVDMzYyLjgwNyAxMzEuMjYzIDM2Ni4zMzQgMTM1LjM4IDM2Ni4zMzQgMTQ0LjIwM1pNMzgzLjk3MSAxNTMuMDI3VjE0Ni41NTZDMzgzLjk3MSAxMjkuNDk4IDM3NC41NjUgMTE2LjU1OCAzNTYuMzQxIDExNi41NThDMzM4LjcwNCAxMTYuNTU4IDMyOC4xMjMgMTI4LjMyMiAzMjguMTIzIDE0Ni41NTZWMTU0Ljc5MUMzMjguMTIzIDE3Ni41NTUgMzQyLjgxOSAxODQuMjAyIDM1Ni4zNDEgMTg0LjIwMkMzNjYuMzM0IDE4NC4yMDIgMzcyLjIxMyAxODMuMDI1IDM3OS4yNjggMTgxLjI2MUMzODEuMDMxIDE4MC42NzMgMzgxLjYxOSAxODAuMDg0IDM4MS42MTkgMTc4LjMyVjE2OS40OTdDMzgxLjYxOSAxNjguMzIgMzgwLjQ0MyAxNjcuNzMyIDM3OS4yNjggMTY3LjczMkgzNzguNjhDMzczLjk3NyAxNjguMzIgMzYzLjk4MyAxNjguOTA4IDM1Ny41MTYgMTY4LjkwOEMzNDguNjk4IDE2OC45MDggMzQ1Ljc1OSAxNjMuMDI2IDM0NS43NTkgMTU2LjU1NkgzODEuNjE5QzM4My4zODMgMTU1LjM4IDM4My45NzEgMTU0Ljc5MSAzODMuOTcxIDE1My4wMjdaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMDAuNjIgMC4wOTM1NzMzQzEyNy4wNzQgMS4yNyAxNTEuMTc2IDEzLjAzNDIgMTY3LjYzNyAzMS4yNjg4QzE4NC42ODUgNDkuNTAzNCAxOTQuMDkxIDc3LjczNzYgMTkyLjkxNSAxMDAuNjc4QzE5Mi4zMjcgMTEwLjY3NyAxOTAuNTY0IDEyMS44NTMgMTg3LjYyNCAxMzAuNjc3QzE4Ny4wMzcgMTMxLjg1MyAxODYuNDQ5IDEzMy42MTggMTg1Ljg2MSAxMzQuNzk0QzE4NC4wOTcgMTM5LjUgMTgxLjc0NiAxNDIuNDQxIDE3OC44MDYgMTQ2LjU1OEwxOTIuOTE1IDIwMy4wMjdDMTkyLjkxNSAyMDMuMDI3IDE0NC43MSAxOTQuNzkyIDEyMi4zNzEgMTg4LjkxQzEyMC42MDcgMTg5LjQ5OCAxMTguODQ0IDE5MC4wODYgMTE3LjY2OCAxOTAuMDg2QzEwOS40MzggMTkxLjg1MSAxMDEuMjA3IDE5My4wMjcgOTIuMzg5MyAxOTIuNDM5QzY1LjkzNTEgMTkxLjI2MyA0MS44MzI0IDE3OS40OTggMjUuMzcyIDE2MS4yNjRDOC45MTE1OSAxNDMuNjE3IC0xLjA4MjIyIDExOC45MTIgMC4wOTM1MTkxIDkyLjQ0MjlDMS4yNjkyNiA2NS45NzMzIDEzLjAyNjcgNDIuNDQ0OCAzMS4yNTA3IDI1LjM4NjdDNDkuNDc0NyA4LjkxNjc2IDc0LjE2NTMgLTEuMDgyODUgMTAwLjYyIDAuMDkzNTczM1pNMTAwLjAzMiAzNC4yMDk5QzgyLjk4MzQgMzMuNjIxNyA2Ny4xMTA4IDQwLjA5MiA1NS4zNTM0IDUwLjY3OThDNDMuNTk2IDYxLjI2NzYgMzUuOTUzNyA3Ni41NjExIDM1LjM2NTggOTMuNjE5M0MzNC43Nzc5IDExMC42NzcgNDAuNjU2NiAxMjYuNTU5IDUxLjgyNjIgMTM4LjMyM0M2Mi40MDc5IDE1MC4wODggNzcuNjkyNSAxNTcuNzM0IDk1LjMyODcgMTU4LjMyM0MxMDEuMjA3IDE1OC4zMjMgMTA2LjQ5OCAxNTguMzIzIDExMS43ODkgMTU2LjU1OEMxMTIuOTY1IDE1NS45NyAxMTQuMTQxIDE1NS45NyAxMTQuNzI4IDE1NS45N0MxMTUuMzE2IDE1NS45NyAxMTYuNDkyIDE1NS4zODIgMTE3LjY2OCAxNTQuNzkzTDEyMS43ODMgMTUzLjYxN0wxMjUuODk4IDE1NC43OTNDMTMzLjU0IDE1Ni41NTggMTQyLjM1OCAxNTguOTExIDE1MC4wMDEgMTYwLjA4N0wxNDUuODg2IDE0NC43OTRMMTQ0LjEyMiAxMzcuNzM1TDE0OC4yMzcgMTMxLjg1M0MxNTEuMTc2IDEyNy43MzYgMTUzLjUyOCAxMjMuNjE4IDE1NS4yOTIgMTE4LjkxMkMxNTUuODc5IDExOC4zMjQgMTU1Ljg3OSAxMTcuMTQ4IDE1Ni40NjcgMTE1Ljk3MUMxNTguMjMxIDExMC4wODkgMTU5LjQwNyAxMDQuMjA3IDE1OS45OTUgOTcuNzM2OEMxNjAuNTgyIDgwLjY3ODYgMTU0LjcwNCA2NC43OTY5IDE0My41MzQgNTMuMDMyN0MxMzIuMzY1IDQyLjQ0NDggMTE3LjA4IDM0Ljc5ODEgMTAwLjAzMiAzNC4yMDk5WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMjQ4Ljc2MSA0Ni41NTg3QzI0NS44MjEgNDUuOTcwNSAyNDIuMjk0IDQ1Ljk3MDUgMjM5Ljk0MiA0NS45NzA1QzIzMi4zIDQ1Ljk3MDUgMjI5Ljk0OSA1MS44NTI2IDIyOS45NDkgNTkuNDk5M1Y2OC4zMjI1QzIyOS45NDkgNzUuOTY5MyAyMzEuNzEyIDgxLjg1MTQgMjM5Ljk0MiA4MS44NTE0QzI0My40NyA4MS44NTE0IDI0Ni45OTcgODEuMjYzMiAyNDguNzYxIDgxLjI2MzJWNDYuNTU4N1pNMjYzLjQ1NyA5NC4yMDM5QzI1Ni45OTEgOTUuOTY4NSAyNDguMTczIDk3LjE0NDkgMjM5Ljk0MiA5Ny4xNDQ5QzIyMS43MTggOTcuMTQ0OSAyMTIuMzEyIDg2LjU1NzEgMjEyLjMxMiA2OC45MTA3VjYwLjA4NzVDMjEyLjMxMiA0Mi40NDEyIDIyMS4xMzEgMzEuODUzNCAyMzkuOTQyIDMxLjg1MzRDMjQyLjI5NCAzMS44NTM0IDI0NS44MjEgMzIuNDQxNiAyNDguNzYxIDMyLjQ0MTZWMTMuMDMwNkMyNDguNzYxIDExLjg1NDIgMjQ5LjkzNiAxMC42Nzc3IDI1MS4xMTIgMTAuNjc3N0gyNjQuNjMzQzI2NS44MDkgMTAuNjc3NyAyNjYuOTg1IDExLjg1NDIgMjY2Ljk4NSAxMy4wMzA2VjkwLjY3NDZDMjY2Ljk4NSA5Mi40MzkyIDI2Ni4zOTcgOTMuNjE1NiAyNjMuNDU3IDk0LjIwMzlaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0zMDkuODk4IDU4LjMyMjJDMzA5Ljg5OCA1MC4wODczIDMwNi4zNzEgNDUuOTY5OCAyOTkuOTA0IDQ1Ljk2OThDMjk0LjAyNiA0NS45Njk4IDI4OS45MTEgNTAuMDg3MyAyODkuOTExIDU4LjMyMjJWNTguOTEwNEwzMDkuODk4IDU4LjMyMjJaTTMyNS4xODMgNjkuNDk4M0gyODkuOTExQzI4OS45MTEgNzUuOTY4NiAyOTIuODUgODEuODUwNyAzMDEuMDggODEuODUwN0MzMDguMTM1IDgxLjg1MDcgMzE4LjEyOCA4MS4yNjI1IDMyMi4yNDMgODAuNjc0M0gzMjIuODMxQzMyNC4wMDcgODAuNjc0MyAzMjUuMTgzIDgxLjI2MjUgMzI1LjE4MyA4Mi40Mzg5VjkwLjY3MzlDMzI1LjE4MyA5Mi40Mzg1IDMyNC41OTUgOTMuMDI2NyAzMjIuODMxIDkzLjYxNUMzMTUuNzc3IDk1LjM3OTYgMzA5Ljg5OCA5Ni41NTYgMjk5LjkwNCA5Ni41NTZDMjg2LjM4MyA5Ni41NTYgMjcyLjI3NCA4OS40OTc1IDI3Mi4yNzQgNjcuNzMzNlY2MC4wODY5QzI3Mi4yNzQgNDIuNDQwNSAyODIuODU2IDMwLjY3NjMgMzAwLjQ5MiAzMC42NzYzQzMxOC43MTYgMzAuNjc2MyAzMjguMTIyIDQzLjAyODcgMzI4LjEyMiA2MC4wODY5VjY2LjU1NzJDMzI3LjUzNCA2OC45MTAxIDMyNi4zNTkgNjkuNDk4MyAzMjUuMTgzIDY5LjQ5ODNaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0zODQuNTU5IDk1Ljk2OUgzNzEuMDM4QzM2OS44NjIgOTUuOTY5IDM2OC42ODcgOTQuNzkyNSAzNjguNjg3IDkzLjYxNjFWNTYuNTU4N0MzNjguNjg3IDQ4LjkxMiAzNjcuNTExIDQ1Ljk3MDkgMzYwLjQ1NyA0NS45NzA5QzM1Ny41MTcgNDUuOTcwOSAzNTMuOTkgNDcuNzM1NiAzNDkuODc1IDQ5LjUwMDJWOTMuMDI3OUMzNDkuODc1IDk0LjIwNDMgMzQ4LjY5OSA5NS4zODA4IDM0Ny41MjMgOTUuMzgwOEgzMzQuMDAyQzMzMi44MjcgOTUuMzgwOCAzMzEuNjUxIDk0LjIwNDMgMzMxLjY1MSA5My4wMjc5VjM0LjIwNjdDMzMxLjY1MSAzMy4wMzAzIDMzMi44MjcgMzEuODUzOCAzMzQuMDAyIDMxLjg1MzhIMzQ2LjkzNkMzNDguMTExIDMxLjg1MzggMzQ5LjI4NyAzMy4wMzAzIDM0OS4yODcgMzQuMjA2N1YzNy4xNDc3QzM1NS4xNjYgMzMuMDMwMyAzNjAuNDU3IDMxLjI2NTYgMzY3LjUxMSAzMS4yNjU2QzM4My4zODQgMzEuMjY1NiAzODYuOTExIDQyLjQ0MTcgMzg2LjkxMSA1Ni41NTg3VjkzLjYxNjFDMzg2LjkxMSA5NC43OTI1IDM4NS43MzUgOTUuOTY5IDM4NC41NTkgOTUuOTY5WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNDI4LjA2IDk1Ljk2ODdDNDI0LjUzMyA5Ni41NTY5IDQyMi43NjkgOTcuMTQ1MSA0MTkuMjQyIDk3LjE0NTFDNDA2Ljg5NiA5Ny4xNDUxIDQwMC40MyA5NC4yMDQxIDQwMC40MyA3OC4zMjIzVjQ1Ljk3MDdMMzkxLjYxMiA0NC43OTQzQzM5MC40MzYgNDQuNzk0MyAzODkuMjYgNDMuNjE3OCAzODkuMjYgNDIuNDQxNFYzNC43OTQ2QzM4OS4yNiAzMy42MTgyIDM5MC40MzYgMzIuNDQxOCAzOTEuNjEyIDMyLjQ0MThINDAwLjQzVjIzLjAzMDRDNDAwLjQzIDIxLjg1NCA0MDEuNjA2IDIxLjI2NTggNDAyLjc4MSAyMC42Nzc2TDQxNi4zMDIgMTguMzI0N0g0MTYuODlDNDE4LjA2NiAxOC4zMjQ3IDQxOC42NTQgMTguOTEyOSA0MTguNjU0IDIwLjA4OTNWMzEuODUzNkg0MjcuNDcyQzQyOC42NDggMzEuODUzNiA0MjkuODIzIDMzLjAzIDQyOS44MjMgMzQuMjA2NFY0My4wMjk2QzQyOS44MjMgNDQuMjA2IDQyOC42NDggNDUuMzgyNSA0MjcuNDcyIDQ1LjM4MjVINDE4LjY1NFY3Ny43MzQxQzQxOC42NTQgODIuNDM5OCA0MTkuMjQyIDgzLjAyOCA0MjIuMTgxIDgzLjAyOEg0MjcuNDcyQzQyOC42NDggODMuMDI4IDQyOS44MjMgODMuNjE2MiA0MjkuODIzIDg0Ljc5MjdWOTMuNjE1OUM0MzAuNDExIDk0Ljc5MjMgNDI5LjIzNiA5NS45Njg3IDQyOC4wNiA5NS45Njg3WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNDY1LjA5NyA2OC45MTEySDQ1OC42M0M0NTAuOTg4IDY4LjkxMTIgNDQ4LjYzNyA3MS44NTIzIDQ0OC42MzcgNzcuMTQ2MlY3OC4zMjI2QzQ0OC42MzcgODMuMDI4MyA0NTAuOTg4IDgzLjYxNjUgNDU1LjY5MSA4My42MTY1QzQ1OS4yMTggODMuNjE2NSA0NjIuMTU4IDgyLjQ0MDEgNDY0LjUwOSA4MS4yNjM3VjY4LjkxMTJINDY1LjA5N1pNNDgwLjM4MiA5NS45NjlINDY4LjAzNkM0NjYuODYxIDk1Ljk2OSA0NjUuNjg1IDk0Ljc5MjUgNDY1LjY4NSA5My42MTYxVjkxLjg1MTVDNDYxLjU3IDk0Ljc5MjUgNDU2Ljg2NyA5Ny4xNDU0IDQ1MC40IDk3LjE0NTRDNDQwLjk5NCA5Ny4xNDU0IDQzMS41ODggOTIuNDM5NyA0MzEuNTg4IDc4LjMyMjZWNzYuNTU4QzQzMS41ODggNjMuNjE3MyA0MzkuODE5IDU3LjczNTIgNDU4LjYzIDU3LjczNTJINDY0LjUwOVY1NC4yMDU5QzQ2NC41MDkgNDcuNzM1NiA0NjEuNTcgNDYuNTU5MSA0NTYuMjc5IDQ2LjU1OTFDNDQ5LjIyNCA0Ni41NTkxIDQ0MS41ODIgNDcuMTQ3NCA0MzguMDU1IDQ3LjE0NzRINDM3LjQ2N0M0MzYuMjkxIDQ3LjE0NzQgNDM1LjcwMyA0Ni41NTkxIDQzNS43MDMgNDUuMzgyN1YzNS45NzEzQzQzNS43MDMgMzQuNzk0OSA0MzYuMjkxIDMzLjYxODUgNDM4LjA1NSAzMy42MTg1QzQ0Mi4xNyAzMi40NDIgNDQ5LjgxMiAzMS4yNjU2IDQ1Ny40NTUgMzEuMjY1NkM0NzMuMzI3IDMxLjI2NTYgNDgzLjMyMSAzNy43MzYgNDgzLjMyMSA1NC4yMDU5VjkzLjYxNjFDNDgyLjczMyA5NC43OTI1IDQ4MS41NTcgOTUuOTY5IDQ4MC4zODIgOTUuOTY5WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNTA1LjA3MiA5NS45Njg1SDQ5MS41NTFDNDkwLjM3NSA5NS45Njg1IDQ4OS4yIDk0Ljc5MjEgNDg5LjIgOTMuNjE1NlYxMy4wMzA2QzQ4OS4yIDExLjg1NDIgNDkwLjM3NSAxMC42Nzc3IDQ5MS41NTEgMTAuNjc3N0g1MDUuMDcyQzUwNi4yNDggMTAuNjc3NyA1MDcuNDI0IDExLjg1NDIgNTA3LjQyNCAxMy4wMzA2VjkzLjYxNTZDNTA3LjQyNCA5NC43OTIxIDUwNi4yNDggOTUuOTY4NSA1MDUuMDcyIDk1Ljk2ODVaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Dental Speed" loading="lazy"/></a></div></div></div><div class="footer-module--links--2C3wI"><div class="footer-module--links-group--3F6ft"><h3>Funcionalidades</h3><a href="/marketing-e-vendas">Marketing e Vendas para Dentistas</a><a href="/gestao-e-financeiro">Gestão e Controle Financeiro</a><a href="/prontuario-digital">Prontuário Digital</a><a href="/agenda-online">Agenda Online</a></div><div class="footer-module--links-group--3F6ft"><h3>Contato</h3><button type="button" class="link-button">Contato</button><a href="https://ajuda.simplesdental.com/?utm_source=footer&amp;utm_medium=site&amp;utm_campaign=central_de_ajuda" target="_blank" rel="noreferrer nofollow">Central de Ajuda</a><button type="button" class="link-button">Teste Grátis</button></div><div class="footer-module--links-group--3F6ft"><h3>Simples Dental</h3><a href="/planos-e-precos">Planos</a><a href="https://www.simplesdental.com/blog/" target="_blank" rel="noreferrer">Blog</a><a href="https://recursoshumanos.gupy.io/" target="_blank" rel="noreferrer">Vagas</a><a href="https://pesquisa-maturidade.simplesdental.com/" target="_blank" rel="noreferrer">Pesquisa de Maturidade</a></div><div class="footer-module--links-group--3F6ft"><h3>Nossas mídias</h3><a href="https://www.instagram.com/simplesdental/" target="_blank" rel="noreferrer">Instagram</a><a href="https://www.facebook.com/simplesdental/" target="_blank" rel="noreferrer">Facebook</a><a href="https://www.linkedin.com/company/simples-dental/" target="_blank" rel="noreferrer">LinkedIn</a><a href="https://www.youtube.com/channel/UCyI9WDzbJj8g8rSlBFY5qCg" target="_blank" rel="noreferrer">YouTube</a></div><div class="footer-module--links-group--3F6ft"><h3>Privacidade e Segurança de Informações</h3><a href="/termos" target="_blank" rel="noreferrer">Termos de Uso</a><a href="/politica" target="_blank" rel="noreferrer">Política de Privacidade e Cookies</a><button type="button" class="link-button">Gerenciamento das Preferências de Cookies</button><a href="https://privacyportal-br.onetrust.com/webform/7df92ceb-936a-459d-a84f-9b137870df61/22f31a3f-747e-4d55-bbed-5df9d24588ad" target="_blank" rel="noreferrer">Atendimento aos Direitos dos Titulares</a><a href="https://privacyportal-br.onetrust.com/incident-portal/webforms/7df92ceb-936a-459d-a84f-9b137870df61/08a96d51-0e26-43ad-96f8-8fcd078217e5" target="_blank" rel="noreferrer">Reporte de Incidentes de Privacidade</a></div></div><div class="rights-module--container--2w0Dt"><div class="rights-module--direitos--qNnIL"><span>Todos os direitos reservados </span><span>© Simples Dental <!-- -->2022</span></div><div><div class="store-module--container--OCfBW"><h3>Disponível também</h3><button class="store-button dark"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjkiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAyOSAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDApIj48cGF0aCBkPSJNNi44MDIyNyAxLjA2NDMyQzUuNzQwNzEgMC40Nzc1NzggNC40OTQzMiAwLjQ5MTE0NSAzLjQzOTU0IDEuMDcyOEwxNS44MDE4IDEyLjQ3NjlMMTkuOTU0NyA4LjMyMzkzTDYuODAyMjcgMS4wNjQzMloiIGZpbGw9IiM5Nzk3OTciLz48cGF0aCBkPSJNMi4yMDM0MiAyLjIzOTc1QzEuOTAxNTggMi43MzMyMiAxLjcyODYxIDMuMjk3OTEgMS43Mjg2MSAzLjg5NjUyVjI0LjQ5MzRDMS43Mjg2MSAyNS4wNzM0IDEuODg2MzEgMjUuNjI2MiAyLjE3MTIgMjYuMTA5NUwxNC42MDI5IDEzLjY3NzhMMi4yMDM0MiAyLjIzOTc1WiIgZmlsbD0iIzk3OTc5NyIvPjxwYXRoIGQ9Ik0yNS40NjEgMTEuMzYzMUwyMS40OTk2IDkuMTc3MjVMMTcuMDQ4MiAxMy42MjdMMjIuNTAzNSAxOC42NTgzTDI1LjQ2MjcgMTcuMDI1M0MyNi41Mjc2IDE2LjQzNTIgMjcuMTY1MiAxNS4zNzcgMjcuMTY1MiAxNC4xOTM0QzI3LjE2MzUgMTMuMDA5NyAyNi41Mjc2IDExLjk1MTUgMjUuNDYxIDExLjM2MzFaIiBmaWxsPSIjOTc5Nzk3Ii8+PHBhdGggZD0iTTE1Ljg0OTMgMTQuODI3NkwzLjM4MzY3IDI3LjI5MzNDMy45MjQ2MiAyNy42MDE5IDQuNTE4MTQgMjcuNzY0NyA1LjExNTA1IDI3Ljc2NDdDNS42OTE2MiAyNy43NjQ3IDYuMjcxNTcgMjcuNjE4OSA2LjgwMjM1IDI3LjMyNTVMMjAuOTQgMTkuNTIzMkwxNS44NDkzIDE0LjgyNzZaIiBmaWxsPSIjOTc5Nzk3Ii8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDAiPjxyZWN0IHdpZHRoPSIyNy4xMzM5IiBoZWlnaHQ9IjI3LjEzMzkiIGZpbGw9IndoaXRlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjg3OTkxMyAwLjYzMDM3MSkiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=" alt="icon store button"/><div class="store-button-text"><small>Disponível no</small><span>Google Play</span></div></button><button class="store-button dark"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjkiIHZpZXdCb3g9IjAgMCAyNSAyOSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjQuMTg1NCAyMi43NTI1QzIzLjc1OTMgMjMuNzM4NyAyMy4yNTQ5IDI0LjY0NjUgMjIuNjcwNCAyNS40ODFDMjEuODczOCAyNi42MTg4IDIxLjIyMTUgMjcuNDA2MyAyMC43MTg4IDI3Ljg0MzZDMTkuOTM5NSAyOC41NjE1IDE5LjEwNDYgMjguOTI5MSAxOC4yMTA2IDI4Ljk1QzE3LjU2ODcgMjguOTUgMTYuNzk0NyAyOC43NjcxIDE1Ljg5MzYgMjguMzk2QzE0Ljk4OTcgMjguMDI2NiAxNC4xNTg5IDI3Ljg0MzYgMTMuMzk5MyAyNy44NDM2QzEyLjYwMjcgMjcuODQzNiAxMS43NDgzIDI4LjAyNjYgMTAuODM0NCAyOC4zOTZDOS45MTkxIDI4Ljc2NzEgOS4xODE3NiAyOC45NjA1IDguNjE4MDEgMjguOTc5NkM3Ljc2MDY2IDI5LjAxNjIgNi45MDYwOCAyOC42MzgxIDYuMDUzMDcgMjcuODQzNkM1LjUwODYzIDI3LjM2OCA0LjgyNzY1IDI2LjU1MjYgNC4wMTE4NiAyNS4zOTc0QzMuMTM2NTkgMjQuMTYzOCAyLjQxNjk5IDIyLjczMzQgMS44NTMyNSAyMS4xMDI1QzEuMjQ5NSAxOS4zNDEgMC45NDY4MzggMTcuNjM1MyAwLjk0NjgzOCAxNS45ODM5QzAuOTQ2ODM4IDE0LjA5MjMgMS4zNTQ5MSAxMi40NjA3IDIuMTcyMjYgMTEuMDkzNUMyLjgxNDYyIDkuOTk1MzMgMy42NjkyIDkuMTI5MDQgNC43Mzg3NyA4LjQ5MzA5QzUuODA4MzMgNy44NTcxMyA2Ljk2NCA3LjUzMzA2IDguMjA4NTYgNy41MTIzM0M4Ljg4OTU0IDcuNTEyMzMgOS43ODI1NiA3LjcyMzMyIDEwLjg5MjMgOC4xMzhDMTEuOTk4OSA4LjU1NDA3IDEyLjcwOTUgOC43NjUwNiAxMy4wMjEgOC43NjUwNkMxMy4yNTM5IDguNzY1MDYgMTQuMDQzMyA4LjUxODM1IDE1LjM4MTQgOC4wMjY0OUMxNi42NDY4IDcuNTcwMzQgMTcuNzE0OCA3LjM4MTQ4IDE4LjU4OTcgNy40NTU4N0MyMC45NjA2IDcuNjQ3NTMgMjIuNzQxNyA4LjU4MzY5IDIzLjkyNjMgMTAuMjcwM0MyMS44MDU5IDExLjU1NzIgMjAuNzU3MSAxMy4zNTk2IDIwLjc3NzkgMTUuNjcxOUMyMC43OTcxIDE3LjQ3MjkgMjEuNDQ5MyAxOC45NzE3IDIyLjczMTMgMjAuMTYxN0MyMy4zMTIzIDIwLjcxNCAyMy45NjExIDIxLjE0MDkgMjQuNjgyOSAyMS40NDRDMjQuNTI2NCAyMS44OTg4IDI0LjM2MTEgMjIuMzM0NCAyNC4xODU0IDIyLjc1MjVaTTE4Ljc0OCAxLjMyMDA3QzE4Ljc0OCAyLjczMTcyIDE4LjIzMzIgNC4wNDk3OCAxNy4yMDY5IDUuMjY5NzZDMTUuOTY4NCA2LjcyMDA5IDE0LjQ3MDUgNy41NTgxNSAxMi44NDYgNy40MjU5MUMxMi44MjUzIDcuMjU2NTUgMTIuODEzMyA3LjA3ODMxIDEyLjgxMzMgNi44OTEwMUMxMi44MTMzIDUuNTM1ODIgMTMuNDAyMyA0LjA4NTUgMTQuNDQ4MiAyLjg5OTY3QzE0Ljk3MDQgMi4yOTkyNiAxNS42MzQ1IDEuODAwMDMgMTYuNDM5OCAxLjQwMTc4QzE3LjI0MzQgMS4wMDk0OCAxOC4wMDM2IDAuNzkyNTIzIDE4LjcxODUgMC43NTUzNzFDMTguNzM5MyAwLjk0NDA4OCAxOC43NDggMS4xMzI4MiAxOC43NDggMS4zMjAwNVYxLjMyMDA3WiIgZmlsbD0iIzk3OTc5NyIvPjwvc3ZnPg==" alt="icon store button"/><div class="store-button-text"><small>Disponível no</small><span>App Store</span></div></button></div></div></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-4587914b6a5e16bab4ac.js"],"app":["/app-630e9423f364cda1ede4.js"],"component---src-pages-404-js":["/component---src-pages-404-js-d88c91c9bb9ba13cbc59.js"],"component---src-pages-agenda-online-js":["/component---src-pages-agenda-online-js-bd8933037e242649902e.js"],"component---src-pages-gestao-e-financeiro-js":["/component---src-pages-gestao-e-financeiro-js-9c94317240fec29cd9ae.js"],"component---src-pages-index-js":["/component---src-pages-index-js-82bc85034fc0ceb942d7.js"],"component---src-pages-lancamentos-2022-js":["/component---src-pages-lancamentos-2022-js-922cc4b8a083368005b8.js"],"component---src-pages-marketing-e-vendas-js":["/component---src-pages-marketing-e-vendas-js-a9c0ac1a4ffe361e2c95.js"],"component---src-pages-planos-e-precos-js":["/component---src-pages-planos-e-precos-js-0162f656fef61f2895c6.js"],"component---src-pages-politica-js":["/component---src-pages-politica-js-da98a8040b88823931ac.js"],"component---src-pages-prontuario-digital-js":["/component---src-pages-prontuario-digital-js-689f9958a0aa680db4af.js"],"component---src-pages-termos-index-js":["/component---src-pages-termos-index-js-36783a548ed4023a047b.js"],"component---src-pages-termos-meudoutor-js":["/component---src-pages-termos-meudoutor-js-c77c5889906776055702.js"]};/*]]>*/</script><script src="/polyfill-4587914b6a5e16bab4ac.js" nomodule=""></script><script src="/component---src-pages-index-js-82bc85034fc0ceb942d7.js" async=""></script><script src="/49c815e4efac362585728f25ed6a050c8440ff9d-17dc515624efc236d95d.js" async=""></script><script src="/app-630e9423f364cda1ede4.js" async=""></script><script src="/framework-838d319ad48df22eeab2.js" async=""></script><script src="/webpack-runtime-ba17087a437006df06e0.js" async=""></script></body></html>
-    
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+		<link rel="stylesheet" href="jquery.simplyscroll.css">
+		<link rel="stylesheet" href="style.css?a=1" />
 
+		<!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KN68QZ9');
+        </script>
 
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+		<title>keepo</title>
+	</head>
+	<body>
+
+		<header id="header">
+			<div class="container">
+				<div class="row">
+					<p class="col-xl-2 col-lg-3 col-md-4 col-sm-3 col-5">
+						<img src="images/logo_keepo.svg" alt="Keepo">
+					</p>
+					<nav id="header-nav" class="col-xl-10 col-lg-9 col-md-8 col-sm-9 col-7">
+						<ul>
+							<li class="header-nav-plus" onclick="go_plus()"><a href="#plus">Keepo Plus</a></li>
+							<li><a href="https://editor.keepo.io/#/?action=login">Login</a></li>
+							<li><a href="https://editor.keepo.io/#/?action=start" class="header-nav-startbtn">Comece</a></li>
+							<!-- <li class="header-nav-lang"><a href=""><i class="bi bi-globe"></i> PT</a></li> -->
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</header>
+
+		<section id="section-01">
+			<div class="container">
+				<div id="section-01-content" class="col-xxl-6 offset-xxl-3 col-xl-8 offset-xl-2 col-md-8 offset-md-2 col-12">
+					<h6>Minisite do seu tipo</h6>
+					<h1>Seu link na bio nunca mais será o mesmo</h1>
+					<p>
+						Conheça o minisite que vai<br> elevar o nível do seu conteúdo
+					</p>
+					<p>
+						<a href="https://editor.keepo.io/#/?action=start" class="btn btn-purple">Crie o seu minisite grátis</a>
+					</p>
+				</div>
+			</div>			
+		</section>
+
+		<section id="home-phones" class="container d-block d-md-none">
+			<div class="row">
+				<p class="col-12">
+					<img src="images/bg_phones_mobile.png"
+						srcset="images/bg_phones_mobile@2x.png 2x, images/bg_phones_mobile@3x.png 3x"
+					    alt="Keepo">
+				</p>
+			</div>
+		</section>
+
+		<section id="section-02" class="container">
+			<div class="row">
+				<p class="col-12">
+					Mostre quem você é, o que você faz, o que você vende.<br> <span>Faça um Keepo do seu tipo com imagens, vídeos e links<br> relevantes para o seu público.</span>
+				</p>
+			</div>			
+		</section>
+		<section id="section-about" class="container">
+			<div class="row section-about-01">
+				<div class="col-md-6 col-12">
+					<h6>Crie em poucos minutos</h6>
+					<h3>
+						Você clica pouco, <br>seu público clica muito.
+					</h3>
+					<p>
+						Tudo no Keepo é fácil de usar para que você possa <br>focar em conteúdo e vendas.
+					</p>
+				</div>
+				<p class="col-md-6 col-12">
+					<img src="images/about_image.png" alt="" style="width: 424px; max-width: 100%;">
+				</p>
+			</div>
+			<div class="row section-about-02">
+				<p class="col-md-6 col-12">
+					<img src="images/about_image_02.png" alt="" style="width: 413px; max-width: 100%;">
+				</p>
+				<div class="col-md-6 col-12 section-about-01">
+					<h6>Cresça com o Keepo <span class="badge-plus">PLUS</span></h6>
+					<h3>
+						Minisite com números <br>de gente grande
+					</h3>
+					<p>
+						Acompanhe o crescimento das suas conversões, <br>visualize seus analytics e faça integrações com <br>outros sites e apps.
+					</p>
+				</div>				
+			</div>
+			<div class="row section-about-03">
+				<div class="col-md-6 col-12">
+					<h6>Impossível não se apaixonar</h6>
+					<h3>
+						Design sedutor e <br>conteúdo encantador
+					</h3>
+					<p>
+						O seu Keepo já nasce com um visual profissional <br>e engrandece o seu perfil, loja ou portfolio.
+					</p>
+				</div>
+				<p class="col-md-6 col-12">
+					<img src="images/about_image_03.png" alt="" style="width: 509px; max-width: 100%;">
+				</p>
+			</div>
+		</section>
+
+		<section id="plans">
+			<div class="container">
+				<div class="row">
+					<h3 class="col-12 text-center d-none d-md-block">Conheça nossos planos</h3>
+					<h3 class="col-12 text-center d-block d-md-none">Nossos planos</h3>
+					<p class="plans-subtitle text-center">
+						Comece grátis ou cresça para o Plus.
+					</p>
+					<p class="text-center btn-plans-box">
+						<button class="btn btn-plan btn-plan-selected" onclick="change_plan(this,'yearly'); return false;">Anual <span>37% OFF</span></button>
+						<button class="btn btn-plan btn-plan-monthly" onclick="change_plan(this,'monthly'); return false;">Mensal</button>
+					</p>
+				</div>
+				<div class="row plans-period plans-yearly">					
+					<div class="col-lg-6 offset-lg-0 col-sm-10 offset-sm-1 plan-plus" id="plus">
+						<p class="badge-plus-offer d-none d-md-block">
+							VALOR DE LANÇAMENTO
+						</p>
+						<p class="badge-plus-offer d-block d-md-none">
+							VALOR DE LANÇAMENTO
+						</p>
+						<h5 class="text-center">Keepo <b>Plus</b></h5>
+						<h2 class="text-center">R$9,90</h2>
+						<p class="text-center">por mês no plano Anual</p>
+						<p class="text-center">
+							<a href="https://editor.keepo.io/#/?action=plus&plan=ANNUALLY" class="btn btn-create-plus-account">Assine PLUS</a>
+						</p>
+						<ul>
+							<li>Customização de cores e alinhamento</li>
+							<li>Seção Boas-vindas com CTA</li>
+							<li>Seção Apresentação com imagem e textos</li>
+							<li>Seção Catálogo com ítens ilimitados</li>
+							<li>Seção Links com miniatura e emoji</li>
+							<li>Seção Ícones com +10 redes sociais</li>
+							<li>Seção Formulário integrado com Email, Mailchimp e Google Sheets</li>
+							<li>Facebook Pixel, Google Analytics e Tag Maneger</li>
+							<li>Múltiplas seções</li>
+							<li>Dados sobre acessos, visualizações e cliques</li>
+							<li>Vídeos do Youtube, Vimeo e Twitch</li>
+							<li>Áudios do Spotify, Apple Music e Deezer</li>
+							<li>Imagens avulsas</li>
+							<li>Suporte Exclusivo</li>
+						</ul>
+					</div>
+					<div class="col-lg-6 offset-lg-0 col-sm-10 offset-sm-1 plan-free">
+						<h5 class="text-center">Keepo <b>Grátis</b></h5>
+						<h2 class="text-center">R$0</h2>
+						<p class="text-center">pra sempre</p>
+						<p class="text-center">
+							<a href="https://editor.keepo.io/#/?action=start" class="btn btn-create-free-account">Crie grátis</a>
+						</p>
+						<ul>
+							<li>10 combinações de cores para escolher</li>
+							<li>Seção Boas-vindas com CTA</li>
+							<li>Seção Apresentação com imagem e textos</li>
+							<li>Seção Catálogo com ítens ilimitados</li>
+							<li>Seção Links com miniatura e emoji</li>
+							<li>Seção Ícones com +10 redes sociais</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row plans-period plans-monthly" style="display: none;">					
+					<div class="col-lg-6 offset-lg-0 col-sm-10 offset-sm-1 plan-plus">
+						<p class="badge-plus-offer">
+							VALOR DE LANÇAMENTO
+						</p>
+						<h5 class="text-center">Keepo <b>Plus</b></h5>
+						<h2 class="text-center">R$15,90</h2>
+						<p class="text-center">por mês no plano Mensal</p>
+						<p class="text-center">
+							<a href="https://editor.keepo.io/#/?action=plus&plan=MONTHLY" class="btn btn-create-plus-account">Assine PLUS</a>
+						</p>
+						<ul>
+							<li>Customização de cores e alinhamento</li>
+							<li>Seção Boas-vindas com CTA</li>
+							<li>Seção Apresentação com imagem e textos</li>
+							<li>Seção Catálogo com ítens ilimitados</li>
+							<li>Seção Links com miniatura e emoji</li>
+							<li>Seção Ícones com +10 redes sociais</li>
+							<li>Seção Formulário integrado com Email, Mailchimp e Google Sheets</li>
+							<li>Facebook Pixel, Google Analytics e Tag Maneger</li>
+							<li>Múltiplas seções</li>
+							<li>Dados sobre acessos, visualizações e cliques</li>
+							<li>Vídeos do Youtube, Vimeo e Twitch</li>
+							<li>Áudios do Spotify, Apple Music e Deezer</li>
+							<li>Imagens avulsas</li>
+							<li>Suporte Exclusivo</li>
+						</ul>
+					</div>
+					<div class="col-lg-6 offset-lg-0 col-sm-10 offset-sm-1 plan-free">
+						<h5 class="text-center">Keepo <b>Grátis</b></h5>
+						<h2 class="text-center">R$0</h2>
+						<p class="text-center">pra sempre</p>
+						<p class="text-center">
+							<a href="https://editor.keepo.io/#/?action=start" class="btn btn-create-free-account">Crie grátis</a>
+						</p>
+						<ul>
+							<li>10 combinações de cores para escolher</li>
+							<li>Seção Boas-vindas com CTA</li>
+							<li>Seção Apresentação com imagem e textos</li>
+							<li>Seção Catálogo com ítens ilimitados</li>
+							<li>Seção Links com miniatura e emoji</li>
+							<li>Seção Ícones com +10 redes sociais</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row payment-method">
+					<div class="col-lg-6 offset-lg-6 col-12">
+						<p class="text-center">
+							Pagamento seguro via <img src="images/stripe.png" width="48px" alt="">
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="section-made" class="container">
+			<div class="row">
+				<h5 class="col-12"><span>Feito para</span> criativos, artistas, <br>comunicadores, influenciadores, <br>freelancers, empreendedores, <br>transformadores, <span>você!</span></h5>
+			</div>
+		</section>
+
+		<section class="horizontal-scroller">
+			<p class="user-profile" onclick="open_link('https://keepo.io/402apto/')">
+				<img src="images/402-destaque.png" alt="">402apto
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/andrebuarque/')">
+				<img src="images/andre-destaque.png" alt="">André Buarque
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/gabrielsilva/')">
+				<img src="images/gabriel-destaque.png" alt="">Gabriel Silva
+			</p>	
+			<p class="user-profile" onclick="open_link('https://keepo.io/cookiestories/')">
+				<img src="images/cokie-destaque.png" alt="">Cookie Stories
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/andreyknabbenn/')">
+				<img src="images/andrey-destaque.png" alt="">Andrey Knabben
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/omarcosalmeida/')">
+				<img src="images/marcos-destaque.png" alt="">Marcos Almeida
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/murilloleal/')">
+				<img src="images/murillo-destaque.png" alt="">Murillo Leal
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/nosemum/')">
+				<img src="images/nosemum-destaque.png" alt="">Nós em Um
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/raissabulhoes/')">
+				<img src="images/raissa-destaque.png" alt="">Raíssa Bulhões
+			</p>
+			<p class="user-profile" onclick="open_link('https://keepo.io/zedoradiohome/')">
+				<img src="images/ze-destaque.png" alt="">Zé do Rádio Home
+			</p>
+		</section>
+
+		<section id="comments" class="container">
+			<div class="row">
+				<h4 class="col-12">Veja quem já tem um minisite do Keepo</h4>
+				<div class="comment col-lg-4 offset-lg-0 col-md-10 offset-md-1 col-12">
+					<p>
+						"Diferente de tudo que vi até agora relacionado a links no perfil!"
+					</p>
+					<p>
+						<img src="images/starts.png" alt="">
+					</p>
+					<p class="comment-author">
+						<b>Filipe Siqueira</b>
+					</p>
+				</div>
+				<div class="comment col-lg-4 offset-lg-0 col-md-10 offset-md-1 col-12">
+					<p>
+						"O Keepo caiu como uma “mão na roda” e dispensou a minha necessidade de criar um site."
+					</p>
+					<p>
+						<img src="images/starts.png" alt="">
+					</p>
+					<p class="comment-author">
+						<b>Andrey Knabbenn</b>
+					</p>
+				</div>
+				<div class="comment col-lg-4 offset-lg-0 col-md-10 offset-md-1 col-12">
+					<p>
+						"Vocês impactam de uma forma muito legal as pessoas e seus negócios."
+					</p>
+					<p>
+						<img src="images/starts.png" alt="">
+					</p>
+					<p class="comment-author">
+						<b>Gustavo Virgilio</b>
+					</p>
+				</div>
+			</div>
+		</section>
+
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<p class="col-xl-2 col-lg-3 col-md-1 col-12 footer-logo">
+						<picture>
+							<source srcset="images/logo_keepo_footer_xs.svg" media="(max-width: 767px)">
+							<source srcset="images/logo_keepo_footer_md.svg" media="(max-width: 991px)">
+							<img src="images/logo_keepo_footer.svg" alt="Flowers">
+						</picture>
+					</p>
+					<p class="col-xl-2 col-lg-3 col-md-3 col-12 d-none d-md-block footer-slogan">
+						Minisite do seu tipo.
+					</p>
+					<ul class="footer-nav col-xl-2 offset-xxl-4 offset-xl-3 col-lg-3 offset-lg-0 col-md-3 offset-md-1 col-12">
+						<!-- <li><a href="" data-bs-toggle="modal" data-bs-target="#faleConosco">Fale Conosco</a></li> -->
+						<li><a href="https://editor.keepo.io/#/legal">Termos e Privacidade</a></li>
+						<!-- <li><a href="https://blog.keepo.io" target="_blank">Blog</a></li> -->
+					</ul>
+					<p class="col-xxl-2 col-lg-3 col-md-4 col-12 footer-social">
+						<a href="https://www.linkedin.com/company/keepo-io/"><img src="images/linkedin.svg" alt=""></a>
+						<a href="https://www.instagram.com/keepo.io/" target="_blank"><img src="images/instagram.svg" alt=""></a>
+						<a href="https://www.facebook.com/keepo.io" target="_blank"><img src="images/facebook.svg" alt=""></a>
+					</p>
+				</div>
+			</div>
+		</footer>
+
+		<div class="modal fade" id="faleConosco" tabindex="-1">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<p id="faleConosco-btnclose" class="text-end">
+							<button type="button" data-bs-dismiss="modal" aria-label="Close"><img src="images/close.png"></button>
+						</p>
+						<h1>Fale com<br>a gente!</h1>
+						<p id="faleConosco-text">
+							Preencha os campos abaixo. Nossa <br>equipe terá o maior prazer em <br>conversar com você.
+						</p>
+						<form action="">
+							<p>
+								<label for="">Qual o seu nome?</label>
+								<input type="text" name="name">
+							</p>
+							<p>
+								<label for="">Seu melhor e-mail</label>
+								<input type="text" name="name" placeholder="email@gmail.com">
+							</p>
+							<p>
+								<label for="">Mensagem</label>
+								<input type="text" name="name" placeholder="Deixe sua mensagem">
+							</p>
+							<p>
+								<input type="submit" value="Enviar mensagems">
+							</p>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<section id="privacy">
+			<div class="container hide">
+				<div class="row">
+					<p class="col-12">
+						Ao usar o Keepo, você concorda com os nossos  <a href="https://editor.keepo.io/#/legal">Termos e Privacidade</a><button class="btn btn-agree" onclick="agree(); return false;">Concordo</button>
+					</p>
+				</div>
+			</div>
+		</section>		
+
+		<script type="text/javascript" src="jquery.simplyscroll.js"></script>
+
+		<script type="text/javascript">
+
+			function getUrlVars() {
+				var vars = [], hash;
+				var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+				for(var i = 0; i < hashes.length; i++)
+				{
+					hash = hashes[i].split('=');
+					vars.push(hash[0]);
+					vars[hash[0]] = hash[1];
+				}
+				return vars;
+			}
+
+			$(".horizontal-scroller").simplyScroll();
+
+			$(window).scroll(function(event) {
+				$('#section-01').css({
+					'background-position': 'center '+(220-($(window).scrollTop()/4))+'px'
+				});
+			});
+
+			var ref = getUrlVars()['ref'];
+
+			if (ref) {
+				$('a').each(function (index, link) {
+					if (link.href.indexOf('action=') > 0)  {
+						link.href = link.href + '&ref=' + ref;
+					}				
+				});
+			}		
+
+			$(document).ready(function(){
+				$(window).load(function() {
+					var hash = location.hash.replace('#','');
+					if(hash != ''){
+						go_el('#'+hash);
+					}				
+				});
+
+				try {
+					const agreed = localStorage.getItem('legal_agreed');
+					if (!agreed) {
+						showLegal();
+					}
+					
+				} catch(e) {
+					showLegal();
+				}
+			});
+
+			function showLegal() {
+				$('#privacy > .container').removeClass('hide');
+			}
+
+			function agree(){
+				$('#privacy').hide();
+				localStorage.setItem('legal_agreed', true);
+			}
+
+			function change_plan(elem,period) {
+				$('.plans-period').hide();
+				$('.btn-plan').removeClass('btn-plan-selected');
+				$(elem).addClass('btn-plan-selected');
+				$('.plans-'+period).show();
+			}
+			function go_plus() {
+				go_el('#plus');
+			}
+			function go_el(el) {
+				$('html, body').animate({ scrollTop: $(el).offset().top - 120}, 400);
+			}
+			function open_link(link) {
+				window.open(link);
+			}
+		</script>
+		  <!-- Google Tag Manager (noscript) -->
+
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN68QZ9"
+			height="0" width="0" style="display:none;visibility:hidden">
+			</iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		
+	</body>
+</html>
 
