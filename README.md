@@ -10,6 +10,14 @@ Frontend Developer
 
 Passionate about web development and technologies
 
-"Frontend development is the art of taking complex systems and making them easy to use and understand. It's about solving problems and creating solutions that are both elegant and functional. It's about understanding the user's needs and crafting an experience that is tailored to those needs, while also pushing the boundaries of what is possible with technology."
+Frontend Developer with experience in development and UI/UX Design. Driving projects with better, reusable code and top-notch web applications. Constant learning to solve complex challenges and enhance user experience. From concept to launch and experience with personal projects.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=fabriciolak&label=Profile+views&color=E83963&style=flat-square)
