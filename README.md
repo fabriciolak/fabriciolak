@@ -10,7 +10,7 @@ Frontend Developer
 
 Passionate about web development and technologies
 
-Frontend Developer with experience in development and UI/UX Design. Driving projects with better, reusable code and top-notch web applications. Constant learning to solve complex challenges and enhance user experience. From concept to launch and experience with personal projects.
+Frontend Developer with experience in development and UI Design. Driving projects with better, reusable code and top-notch web applications. Constant learning to solve complex challenges and enhance user experience. From concept to launch and experience with personal projects.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
