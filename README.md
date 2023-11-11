@@ -3,6 +3,9 @@
 # Fabrício Silva
 
 Frontend Developer
+<br>
+<br>
+Deployed in 2004's. Currently in version 1.9
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabriciolak-E83963?style=flat-square&labelColor=E83963&logo=twitter&logoColor=white&link=https://twitter.com/fabriciolak)](https://twitter.com/fabriciolak) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabrício%20Silva-E83963?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciolak/)](https://www.linkedin.com/in/fabriciolak/) 
